@@ -1,0 +1,1084 @@
+"Laufende Nummer","Gemeindeschlüssel SRDB",GS,"Amtlicher Gemeindeschlüssel SRDB",AGS,"Bundeseinheitlicher Regionalschlüssel","Textkennzeichen der Gemeinde","Postleitzahl",Gemeindename,Kreis,Kreis Nummer,Kreis Allgemeine Nummer,Kreis Typ,Kreis Name,Region,Region Nummer,Region Allgemeine Nummer,Region Name,Regierungsbezirk,Regierungsbezirk Nummer,Regierungsbezirk Allgemeine Nummer,Regierungsbezirk Name
+1,GS,111000,KD,08111000,081110000000,62,70173,"Stuttgart, Landeshauptstadt",KR,111,08111,Stadtkreis,Stuttgart,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+2,GS,115001,KD,08115001,081155001001,64,71134,Aidlingen,KR,115,08115,Landkreis,Böblingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+3,GS,115002,KD,08115002,081155004002,64,71155,Altdorf,KR,115,08115,Landkreis,Böblingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+4,GS,115003,KD,08115003,081150003003,67,71032,"Böblingen, Stadt",KR,115,08115,Landkreis,Böblingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+5,GS,115004,KD,08115004,081155005004,64,71149,Bondorf,KR,115,08115,Landkreis,Böblingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+6,GS,115010,KD,08115010,081155003010,64,75392,Deckenpfronn,KR,115,08115,Landkreis,Böblingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+7,GS,115013,KD,08115013,081155002013,64,71139,Ehningen,KR,115,08115,Landkreis,Böblingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+8,GS,115015,KD,08115015,081155002015,64,71116,Gärtringen,KR,115,08115,Landkreis,Böblingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+9,GS,115016,KD,08115016,081155005016,64,71126,Gäufelden,KR,115,08115,Landkreis,Böblingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+10,GS,115021,KD,08115021,081155003021,67,71083,"Herrenberg, Stadt",KR,115,08115,Landkreis,Böblingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+11,GS,115022,KD,08115022,081155004022,64,71157,Hildrizhausen,KR,115,08115,Landkreis,Böblingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+12,GS,115024,KD,08115024,081155004024,63,71088,"Holzgerlingen, Stadt",KR,115,08115,Landkreis,Böblingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+13,GS,115028,KD,08115028,081150028028,67,71229,"Leonberg, Stadt",KR,115,08115,Landkreis,Böblingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+14,GS,115029,KD,08115029,081150029029,64,71106,Magstadt,KR,115,08115,Landkreis,Böblingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+15,GS,115034,KD,08115034,081155005034,64,71159,Mötzingen,KR,115,08115,Landkreis,Böblingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+16,GS,115037,KD,08115037,081155003037,64,71154,Nufringen,KR,115,08115,Landkreis,Böblingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+17,GS,115041,KD,08115041,081150041041,63,71272,"Renningen, Stadt",KR,115,08115,Landkreis,Böblingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+18,GS,115042,KD,08115042,081150042042,63,71277,"Rutesheim, Stadt",KR,115,08115,Landkreis,Böblingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+19,GS,115044,KD,08115044,081150044044,64,71101,Schönaich,KR,115,08115,Landkreis,Böblingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+20,GS,115045,KD,08115045,081150045045,67,71063,"Sindelfingen, Stadt",KR,115,08115,Landkreis,Böblingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+21,GS,115046,KD,08115046,081155006046,64,71144,Steinenbronn,KR,115,08115,Landkreis,Böblingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+22,GS,115048,KD,08115048,081155006048,63,71111,"Waldenbuch, Stadt",KR,115,08115,Landkreis,Böblingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+23,GS,115050,KD,08115050,081150050050,63,71263,"Weil der Stadt, Stadt",KR,115,08115,Landkreis,Böblingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+24,GS,115051,KD,08115051,081150051051,64,71093,Weil im Schönbuch,KR,115,08115,Landkreis,Böblingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+25,GS,115052,KD,08115052,081150052052,64,71287,Weissach,KR,115,08115,Landkreis,Böblingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+26,GS,115053,KD,08115053,081155005053,64,71131,Jettingen,KR,115,08115,Landkreis,Böblingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+27,GS,115054,KD,08115054,081155001054,64,71120,Grafenau,KR,115,08115,Landkreis,Böblingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+28,GS,116004,KD,08116004,081165006004,64,73776,Altbach,KR,116,08116,Landkreis,Esslingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+29,GS,116005,KD,08116005,081165003005,64,72655,Altdorf,KR,116,08116,Landkreis,Esslingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+30,GS,116006,KD,08116006,081165003006,64,72657,Altenriet,KR,116,08116,Landkreis,Esslingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+31,GS,116007,KD,08116007,081165007007,64,73666,Baltmannsweiler,KR,116,08116,Landkreis,Esslingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+32,GS,116008,KD,08116008,081165003008,64,72658,Bempflingen,KR,116,08116,Landkreis,Esslingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+33,GS,116011,KD,08116011,081165004011,64,72660,Beuren,KR,116,08116,Landkreis,Esslingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+34,GS,116012,KD,08116012,081165008012,64,73266,Bissingen an der Teck,KR,116,08116,Landkreis,Esslingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+35,GS,116014,KD,08116014,081165006014,64,73779,Deizisau,KR,116,08116,Landkreis,Esslingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+36,GS,116015,KD,08116015,081160015015,64,73770,Denkendorf,KR,116,08116,Landkreis,Esslingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+37,GS,116016,KD,08116016,081165001016,64,73265,Dettingen unter Teck,KR,116,08116,Landkreis,Esslingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+38,GS,116018,KD,08116018,081165002018,64,73268,Erkenbrechtsweiler,KR,116,08116,Landkreis,Esslingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+39,GS,116019,KD,08116019,081160019019,67,73728,"Esslingen am Neckar, Stadt",KR,116,08116,Landkreis,Esslingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+40,GS,116020,KD,08116020,081165005020,64,72636,Frickenhausen,KR,116,08116,Landkreis,Esslingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+41,GS,116022,KD,08116022,081165005022,64,72663,Großbettlingen,KR,116,08116,Landkreis,Esslingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+42,GS,116027,KD,08116027,081165007027,64,73269,Hochdorf,KR,116,08116,Landkreis,Esslingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+43,GS,116029,KD,08116029,081165008029,64,73271,Holzmaden,KR,116,08116,Landkreis,Esslingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+44,GS,116033,KD,08116033,081165001033,67,73230,"Kirchheim unter Teck, Stadt",KR,116,08116,Landkreis,Esslingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+45,GS,116035,KD,08116035,081165009035,64,73257,Köngen,KR,116,08116,Landkreis,Esslingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+46,GS,116036,KD,08116036,081165004036,64,72664,Kohlberg,KR,116,08116,Landkreis,Esslingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+47,GS,116037,KD,08116037,081165007037,64,73669,Lichtenwald,KR,116,08116,Landkreis,Esslingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+48,GS,116041,KD,08116041,081165003041,64,72666,Neckartailfingen,KR,116,08116,Landkreis,Esslingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+49,GS,116042,KD,08116042,081165003042,64,72654,Neckartenzlingen,KR,116,08116,Landkreis,Esslingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+50,GS,116043,KD,08116043,081165008043,64,73272,Neidlingen,KR,116,08116,Landkreis,Esslingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+51,GS,116046,KD,08116046,081165004046,63,72639,"Neuffen, Stadt",KR,116,08116,Landkreis,Esslingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+52,GS,116047,KD,08116047,081160047047,64,73765,Neuhausen auf den Fildern,KR,116,08116,Landkreis,Esslingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+54,GS,116049,KD,08116049,081165005049,67,72622,"Nürtingen, Stadt",KR,116,08116,Landkreis,Esslingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+55,GS,116050,KD,08116050,081165005050,64,72644,Oberboihingen,KR,116,08116,Landkreis,Esslingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+56,GS,116053,KD,08116053,081165008053,64,73275,Ohmden,KR,116,08116,Landkreis,Esslingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+57,GS,116054,KD,08116054,081165002054,63,73277,"Owen, Stadt",KR,116,08116,Landkreis,Esslingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+58,GS,116056,KD,08116056,081165006056,63,73207,"Plochingen, Stadt",KR,116,08116,Landkreis,Esslingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+59,GS,116058,KD,08116058,081165007058,64,73262,Reichenbach an der Fils,KR,116,08116,Landkreis,Esslingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+60,GS,116063,KD,08116063,081165003063,64,72667,Schlaitdorf,KR,116,08116,Landkreis,Esslingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+61,GS,116068,KD,08116068,081165005068,64,72669,Unterensingen,KR,116,08116,Landkreis,Esslingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+62,GS,116070,KD,08116070,081165008070,63,73235,"Weilheim an der Teck, Stadt",KR,116,08116,Landkreis,Esslingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+63,GS,116071,KD,08116071,081165009071,63,73240,"Wendlingen am Neckar, Stadt",KR,116,08116,Landkreis,Esslingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+64,GS,116072,KD,08116072,081160072072,63,73249,"Wernau (Neckar), Stadt",KR,116,08116,Landkreis,Esslingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+65,GS,116073,KD,08116073,081165005073,64,72649,Wolfschlugen,KR,116,08116,Landkreis,Esslingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+66,GS,116076,KD,08116076,081160076076,64,73773,Aichwald,KR,116,08116,Landkreis,Esslingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+67,GS,116077,KD,08116077,081160077077,67,70794,"Filderstadt, Stadt",KR,116,08116,Landkreis,Esslingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+68,GS,116078,KD,08116078,081160078078,67,70771,"Leinfelden-Echterdingen, Stadt",KR,116,08116,Landkreis,Esslingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+69,GS,116079,KD,08116079,081165002079,64,73252,Lenningen,KR,116,08116,Landkreis,Esslingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+70,GS,116080,KD,08116080,081160080080,67,73760,"Ostfildern, Stadt",KR,116,08116,Landkreis,Esslingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+71,GS,116081,KD,08116081,081160081081,63,72631,"Aichtal, Stadt",KR,116,08116,Landkreis,Esslingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+72,GS,117001,KD,08117001,081175008001,64,73099,Adelberg,KR,117,08117,Landkreis,Göppingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+73,GS,117002,KD,08117002,081175009002,64,73101,Aichelberg,KR,117,08117,Landkreis,Göppingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+74,GS,117003,KD,08117003,081175010003,64,73095,Albershausen,KR,117,08117,Landkreis,Göppingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+75,GS,117006,KD,08117006,081175001006,64,73342,Bad Ditzenbach,KR,117,08117,Landkreis,Göppingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+76,GS,117007,KD,08117007,081175004007,64,73337,Bad Überkingen,KR,117,08117,Landkreis,Göppingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+77,GS,117009,KD,08117009,081175008009,64,73102,Birenbach,KR,117,08117,Landkreis,Göppingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+78,GS,117010,KD,08117010,081170010010,64,89558,Böhmenkirch,KR,117,08117,Landkreis,Göppingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+79,GS,117011,KD,08117011,081175008011,64,73104,Börtlingen,KR,117,08117,Landkreis,Göppingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+80,GS,117012,KD,08117012,081175009012,64,73087,Bad Boll,KR,117,08117,Landkreis,Göppingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+81,GS,117014,KD,08117014,081175001014,64,73326,Deggingen,KR,117,08117,Landkreis,Göppingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+82,GS,117015,KD,08117015,081175006015,63,73072,"Donzdorf, Stadt",KR,117,08117,Landkreis,Göppingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+83,GS,117016,KD,08117016,081175007016,64,73345,Drackenstein,KR,117,08117,Landkreis,Göppingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+84,GS,117017,KD,08117017,081175009017,64,73105,Dürnau,KR,117,08117,Landkreis,Göppingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+85,GS,117018,KD,08117018,081175002018,63,73061,"Ebersbach an der Fils, Stadt",KR,117,08117,Landkreis,Göppingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+86,GS,117019,KD,08117019,081175003019,67,73054,"Eislingen/Fils, Stadt",KR,117,08117,Landkreis,Göppingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+87,GS,117020,KD,08117020,081175011020,64,73107,Eschenbach,KR,117,08117,Landkreis,Göppingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+88,GS,117023,KD,08117023,081175009023,64,73108,Gammelshausen,KR,117,08117,Landkreis,Göppingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+89,GS,117024,KD,08117024,081175004024,67,73312,"Geislingen an der Steige, Stadt",KR,117,08117,Landkreis,Göppingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+90,GS,117025,KD,08117025,081175006025,64,73333,Gingen an der Fils,KR,117,08117,Landkreis,Göppingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+91,GS,117026,KD,08117026,081175005026,67,73033,"Göppingen, Stadt",KR,117,08117,Landkreis,Göppingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+92,GS,117028,KD,08117028,081175007028,64,73344,Gruibingen,KR,117,08117,Landkreis,Göppingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+93,GS,117029,KD,08117029,081175009029,64,73110,Hattenhofen,KR,117,08117,Landkreis,Göppingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+94,GS,117030,KD,08117030,081175011030,64,73092,Heiningen,KR,117,08117,Landkreis,Göppingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+95,GS,117031,KD,08117031,081175007031,64,73345,Hohenstadt,KR,117,08117,Landkreis,Göppingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+96,GS,117033,KD,08117033,081175004033,64,73329,Kuchen,KR,117,08117,Landkreis,Göppingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+97,GS,117035,KD,08117035,081175007035,64,73347,Mühlhausen im Täle,KR,117,08117,Landkreis,Göppingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+98,GS,117037,KD,08117037,081175003037,64,73113,Ottenbach,KR,117,08117,Landkreis,Göppingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+99,GS,117038,KD,08117038,081175008038,64,73098,Rechberghausen,KR,117,08117,Landkreis,Göppingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+100,GS,117042,KD,08117042,081175003042,64,73084,Salach,KR,117,08117,Landkreis,Göppingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+101,GS,117043,KD,08117043,081175005043,64,73114,Schlat,KR,117,08117,Landkreis,Göppingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+102,GS,117044,KD,08117044,081175002044,64,73278,Schlierbach,KR,117,08117,Landkreis,Göppingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+103,GS,117049,KD,08117049,081175006049,63,73079,"Süßen, Stadt",KR,117,08117,Landkreis,Göppingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+104,GS,117051,KD,08117051,081175010051,63,73066,"Uhingen, Stadt",KR,117,08117,Landkreis,Göppingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+105,GS,117053,KD,08117053,081175005053,64,73116,Wäschenbeuren,KR,117,08117,Landkreis,Göppingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+107,GS,117058,KD,08117058,081175007058,63,73349,"Wiesensteig, Stadt",KR,117,08117,Landkreis,Göppingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+108,GS,117060,KD,08117060,081175009060,64,73119,Zell unter Aichelberg,KR,117,08117,Landkreis,Göppingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+109,GS,117061,KD,08117061,081175006061,63,73111,"Lauterstein, Stadt",KR,117,08117,Landkreis,Göppingen,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+110,GS,118001,KD,08118001,081185005001,64,71563,Affalterbach,KR,118,08118,Landkreis,Ludwigsburg,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+111,GS,118003,KD,08118003,081180003003,63,71679,"Asperg, Stadt",KR,118,08118,Landkreis,Ludwigsburg,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+112,GS,118006,KD,08118006,081185005006,64,71726,Benningen am Neckar,KR,118,08118,Landkreis,Ludwigsburg,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+113,GS,118007,KD,08118007,081185001007,63,74354,"Besigheim, Stadt",KR,118,08118,Landkreis,Ludwigsburg,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+114,GS,118010,KD,08118010,081185003010,63,74357,"Bönnigheim, Stadt",KR,118,08118,Landkreis,Ludwigsburg,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+115,GS,118011,KD,08118011,081180011011,67,71254,"Ditzingen, Stadt",KR,118,08118,Landkreis,Ludwigsburg,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+116,GS,118012,KD,08118012,081185008012,64,71735,Eberdingen,KR,118,08118,Landkreis,Ludwigsburg,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+117,GS,118014,KD,08118014,081185005014,64,71729,Erdmannhausen,KR,118,08118,Landkreis,Ludwigsburg,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+118,GS,118015,KD,08118015,081185003015,64,74391,Erligheim,KR,118,08118,Landkreis,Ludwigsburg,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+119,GS,118016,KD,08118016,081185001016,64,74392,Freudental,KR,118,08118,Landkreis,Ludwigsburg,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+120,GS,118018,KD,08118018,081185001018,64,74376,Gemmrigheim,KR,118,08118,Landkreis,Ludwigsburg,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+121,GS,118019,KD,08118019,081180019019,63,70839,"Gerlingen, Stadt",KR,118,08118,Landkreis,Ludwigsburg,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+122,GS,118021,KD,08118021,081180021021,63,71723,"Großbottwar, Stadt",KR,118,08118,Landkreis,Ludwigsburg,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+123,GS,118027,KD,08118027,081185006027,64,71282,Hemmingen,KR,118,08118,Landkreis,Ludwigsburg,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+124,GS,118028,KD,08118028,081185001028,64,74394,Hessigheim,KR,118,08118,Landkreis,Ludwigsburg,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+125,GS,118040,KD,08118040,081185003040,64,74366,Kirchheim am Neckar,KR,118,08118,Landkreis,Ludwigsburg,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+126,GS,118046,KD,08118046,081180046046,67,70806,"Kornwestheim, Stadt",KR,118,08118,Landkreis,Ludwigsburg,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+127,GS,118047,KD,08118047,081185001047,64,74369,Löchgau,KR,118,08118,Landkreis,Ludwigsburg,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+128,GS,118048,KD,08118048,081180048048,67,71638,"Ludwigsburg, Stadt",KR,118,08118,Landkreis,Ludwigsburg,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+129,GS,118049,KD,08118049,081185005049,63,71672,"Marbach am Neckar, Stadt",KR,118,08118,Landkreis,Ludwigsburg,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+130,GS,118050,KD,08118050,081180050050,63,71706,"Markgröningen, Stadt",KR,118,08118,Landkreis,Ludwigsburg,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+131,GS,118051,KD,08118051,081180051051,64,71696,Möglingen,KR,118,08118,Landkreis,Ludwigsburg,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+132,GS,118053,KD,08118053,081185001053,64,74395,Mundelsheim,KR,118,08118,Landkreis,Ludwigsburg,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+133,GS,118054,KD,08118054,081185007054,64,71711,Murr,KR,118,08118,Landkreis,Ludwigsburg,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+134,GS,118059,KD,08118059,081185008059,63,71739,"Oberriexingen, Stadt",KR,118,08118,Landkreis,Ludwigsburg,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+135,GS,118060,KD,08118060,081180060060,64,71720,Oberstenfeld,KR,118,08118,Landkreis,Ludwigsburg,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+136,GS,118063,KD,08118063,081185004063,64,74385,Pleidelsheim,KR,118,08118,Landkreis,Ludwigsburg,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+137,GS,118067,KD,08118067,081185006067,64,71701,Schwieberdingen,KR,118,08118,Landkreis,Ludwigsburg,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+138,GS,118068,KD,08118068,081185008068,64,74372,Sersheim,KR,118,08118,Landkreis,Ludwigsburg,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+139,GS,118070,KD,08118070,081185007070,63,71711,"Steinheim an der Murr, Stadt",KR,118,08118,Landkreis,Ludwigsburg,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+140,GS,118071,KD,08118071,081185002071,63,71732,"Tamm, Stadt",KR,118,08118,Landkreis,Ludwigsburg,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+141,GS,118073,KD,08118073,081185008073,67,71665,"Vaihingen an der Enz, Stadt",KR,118,08118,Landkreis,Ludwigsburg,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+142,GS,118074,KD,08118074,081185001074,64,74399,Walheim,KR,118,08118,Landkreis,Ludwigsburg,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+143,GS,118076,KD,08118076,081180076076,63,74343,"Sachsenheim, Stadt",KR,118,08118,Landkreis,Ludwigsburg,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+144,GS,118077,KD,08118077,081185002077,64,74379,Ingersheim,KR,118,08118,Landkreis,Ludwigsburg,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+145,GS,118078,KD,08118078,081185004078,63,71691,"Freiberg am Neckar, Stadt",KR,118,08118,Landkreis,Ludwigsburg,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+146,GS,118079,KD,08118079,081185002079,67,74321,"Bietigheim-Bissingen, Stadt",KR,118,08118,Landkreis,Ludwigsburg,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+147,GS,118080,KD,08118080,081180080080,63,70825,"Korntal-Münchingen, Stadt",KR,118,08118,Landkreis,Ludwigsburg,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+148,GS,118081,KD,08118081,081180081081,67,71686,"Remseck am Neckar, Stadt",KR,118,08118,Landkreis,Ludwigsburg,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+149,GS,119001,KD,08119001,081190001001,64,73553,Alfdorf,KR,119,08119,Landkreis,Rems-Murr-Kreis,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+150,GS,119003,KD,08119003,081195001003,64,71573,Allmersbach im Tal,KR,119,08119,Landkreis,Rems-Murr-Kreis,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+151,GS,119004,KD,08119004,081195001004,64,71566,Althütte,KR,119,08119,Landkreis,Rems-Murr-Kreis,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+152,GS,119006,KD,08119006,081195001006,64,71549,Auenwald,KR,119,08119,Landkreis,Rems-Murr-Kreis,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+153,GS,119008,KD,08119008,081195001008,67,71522,"Backnang, Stadt",KR,119,08119,Landkreis,Rems-Murr-Kreis,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+154,GS,119018,KD,08119018,081195001018,64,71576,Burgstetten,KR,119,08119,Landkreis,Rems-Murr-Kreis,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+155,GS,119020,KD,08119020,081190020020,67,70734,"Fellbach, Stadt",KR,119,08119,Landkreis,Rems-Murr-Kreis,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+156,GS,119024,KD,08119024,081195004024,64,71577,Großerlach,KR,119,08119,Landkreis,Rems-Murr-Kreis,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+157,GS,119037,KD,08119037,081195005037,64,73667,Kaisersbach,KR,119,08119,Landkreis,Rems-Murr-Kreis,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+158,GS,119038,KD,08119038,081195001038,64,71737,Kirchberg an der Murr,KR,119,08119,Landkreis,Rems-Murr-Kreis,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+160,GS,119042,KD,08119042,081195006042,64,71397,Leutenbach,KR,119,08119,Landkreis,Rems-Murr-Kreis,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+161,GS,119044,KD,08119044,081190044044,63,71540,"Murrhardt, Stadt",KR,119,08119,Landkreis,Rems-Murr-Kreis,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+162,GS,119053,KD,08119053,081195001053,64,71570,Oppenweiler,KR,119,08119,Landkreis,Rems-Murr-Kreis,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+163,GS,119055,KD,08119055,081195002055,64,73655,Plüderhausen,KR,119,08119,Landkreis,Rems-Murr-Kreis,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+164,GS,119061,KD,08119061,081190061061,64,73635,Rudersberg,KR,119,08119,Landkreis,Rems-Murr-Kreis,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+165,GS,119067,KD,08119067,081195003067,67,73614,"Schorndorf, Stadt",KR,119,08119,Landkreis,Rems-Murr-Kreis,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+166,GS,119068,KD,08119068,081195006068,64,71409,Schwaikheim,KR,119,08119,Landkreis,Rems-Murr-Kreis,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+167,GS,119069,KD,08119069,081195004069,64,71579,Spiegelberg,KR,119,08119,Landkreis,Rems-Murr-Kreis,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+168,GS,119075,KD,08119075,081195004075,64,71560,Sulzbach an der Murr,KR,119,08119,Landkreis,Rems-Murr-Kreis,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+169,GS,119076,KD,08119076,081195002076,64,73660,Urbach,KR,119,08119,Landkreis,Rems-Murr-Kreis,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+170,GS,119079,KD,08119079,081190079079,67,71332,"Waiblingen, Stadt",KR,119,08119,Landkreis,Rems-Murr-Kreis,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+171,GS,119083,KD,08119083,081195001083,64,71554,Weissach im Tal,KR,119,08119,Landkreis,Rems-Murr-Kreis,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+172,GS,119084,KD,08119084,081195005084,63,73642,"Welzheim, Stadt",KR,119,08119,Landkreis,Rems-Murr-Kreis,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+173,GS,119085,KD,08119085,081195006085,67,71364,"Winnenden, Stadt",KR,119,08119,Landkreis,Rems-Murr-Kreis,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+174,GS,119086,KD,08119086,081195003086,64,73650,Winterbach,KR,119,08119,Landkreis,Rems-Murr-Kreis,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+175,GS,119087,KD,08119087,081195001087,64,71546,Aspach,KR,119,08119,Landkreis,Rems-Murr-Kreis,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+176,GS,119089,KD,08119089,081190089089,64,73663,Berglen,KR,119,08119,Landkreis,Rems-Murr-Kreis,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+177,GS,119090,KD,08119090,081190090090,64,73630,Remshalden,KR,119,08119,Landkreis,Rems-Murr-Kreis,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+178,GS,119091,KD,08119091,081190091091,67,71384,"Weinstadt, Stadt",KR,119,08119,Landkreis,Rems-Murr-Kreis,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+179,GS,119093,KD,08119093,081190093093,64,71394,Kernen im Remstal,KR,119,08119,Landkreis,Rems-Murr-Kreis,RV,11,0811,Stuttgart,RB,1,081,Stuttgart
+180,GS,121000,KD,08121000,081210000000,62,74072,"Heilbronn, Universitätsstadt",KR,121,08121,Stadtkreis,Heilbronn,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+181,GS,125001,KD,08125001,081255012001,64,74232,Abstatt,KR,125,08125,Landkreis,Heilbronn,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+182,GS,125005,KD,08125005,081255001005,63,74177,"Bad Friedrichshall, Stadt",KR,125,08125,Landkreis,Heilbronn,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+183,GS,125006,KD,08125006,081255002006,67,74906,"Bad Rappenau, Stadt",KR,125,08125,Landkreis,Heilbronn,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+184,GS,125007,KD,08125007,081250007007,63,74206,"Bad Wimpfen, Stadt",KR,125,08125,Landkreis,Heilbronn,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+185,GS,125008,KD,08125008,081255012008,63,71717,"Beilstein, Stadt",KR,125,08125,Landkreis,Heilbronn,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+186,GS,125013,KD,08125013,081255003013,63,74336,"Brackenheim, Stadt",KR,125,08125,Landkreis,Heilbronn,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+187,GS,125017,KD,08125017,081255003017,64,74389,Cleebronn,KR,125,08125,Landkreis,Heilbronn,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+188,GS,125021,KD,08125021,081255014021,64,74246,Eberstadt,KR,125,08125,Landkreis,Heilbronn,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+189,GS,125024,KD,08125024,081255014024,64,74248,Ellhofen,KR,125,08125,Landkreis,Heilbronn,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+190,GS,125026,KD,08125026,081255004026,67,75031,"Eppingen, Stadt",KR,125,08125,Landkreis,Heilbronn,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+191,GS,125027,KD,08125027,081255008027,64,74235,Erlenbach,KR,125,08125,Landkreis,Heilbronn,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+192,GS,125030,KD,08125030,081255005030,64,74223,Flein,KR,125,08125,Landkreis,Heilbronn,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+193,GS,125034,KD,08125034,081255004034,64,75050,Gemmingen,KR,125,08125,Landkreis,Heilbronn,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+194,GS,125038,KD,08125038,081255010038,63,74363,"Güglingen, Stadt",KR,125,08125,Landkreis,Heilbronn,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+195,GS,125039,KD,08125039,081250039039,63,74831,"Gundelsheim, Stadt",KR,125,08125,Landkreis,Heilbronn,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+196,GS,125046,KD,08125046,081255012046,64,74360,Ilsfeld,KR,125,08125,Landkreis,Heilbronn,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+197,GS,125047,KD,08125047,081255004047,64,74930,Ittlingen,KR,125,08125,Landkreis,Heilbronn,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+198,GS,125048,KD,08125048,081255007048,64,74249,Jagsthausen,KR,125,08125,Landkreis,Heilbronn,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+199,GS,125049,KD,08125049,081255002049,64,74912,Kirchardt,KR,125,08125,Landkreis,Heilbronn,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+200,GS,125056,KD,08125056,081255006056,63,74348,"Lauffen am Neckar, Stadt",KR,125,08125,Landkreis,Heilbronn,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+201,GS,125057,KD,08125057,081255014057,64,74251,Lehrensteinsfeld,KR,125,08125,Landkreis,Heilbronn,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+202,GS,125058,KD,08125058,081250058058,63,74211,"Leingarten, Stadt",KR,125,08125,Landkreis,Heilbronn,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+203,GS,125059,KD,08125059,081255011059,63,74245,"Löwenstein, Stadt",KR,125,08125,Landkreis,Heilbronn,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+204,GS,125061,KD,08125061,081255013061,64,74252,Massenbachhausen,KR,125,08125,Landkreis,Heilbronn,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+205,GS,125063,KD,08125063,081255007063,63,74219,"Möckmühl, Stadt",KR,125,08125,Landkreis,Heilbronn,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+206,GS,125065,KD,08125065,081255008065,67,74172,"Neckarsulm, Stadt",KR,125,08125,Landkreis,Heilbronn,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+207,GS,125066,KD,08125066,081255006066,64,74382,Neckarwestheim,KR,125,08125,Landkreis,Heilbronn,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+208,GS,125068,KD,08125068,081250068068,63,74861,"Neudenau, Stadt",KR,125,08125,Landkreis,Heilbronn,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+209,GS,125069,KD,08125069,081255009069,63,74196,"Neuenstadt am Kocher, Stadt",KR,125,08125,Landkreis,Heilbronn,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+210,GS,125074,KD,08125074,081255006074,64,74226,Nordheim,KR,125,08125,Landkreis,Heilbronn,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+211,GS,125078,KD,08125078,081255001078,64,74229,Oedheim,KR,125,08125,Landkreis,Heilbronn,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+213,GS,125081,KD,08125081,081255010081,64,74397,Pfaffenhofen,KR,125,08125,Landkreis,Heilbronn,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+214,GS,125084,KD,08125084,081255007084,64,74255,Roigheim,KR,125,08125,Landkreis,Heilbronn,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+215,GS,125086,KD,08125086,081255013086,63,74193,"Schwaigern, Stadt",KR,125,08125,Landkreis,Heilbronn,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+216,GS,125087,KD,08125087,081255002087,64,74936,Siegelsbach,KR,125,08125,Landkreis,Heilbronn,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+217,GS,125094,KD,08125094,081255005094,64,74388,Talheim,KR,125,08125,Landkreis,Heilbronn,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+218,GS,125096,KD,08125096,081255008096,64,74257,Untereisesheim,KR,125,08125,Landkreis,Heilbronn,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+219,GS,125098,KD,08125098,081255012098,64,74199,Untergruppenbach,KR,125,08125,Landkreis,Heilbronn,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+220,GS,125102,KD,08125102,081255014102,63,74189,"Weinsberg, Stadt",KR,125,08125,Landkreis,Heilbronn,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+221,GS,125103,KD,08125103,081255007103,63,74259,"Widdern, Stadt",KR,125,08125,Landkreis,Heilbronn,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+222,GS,125107,KD,08125107,081250107107,64,71543,Wüstenrot,KR,125,08125,Landkreis,Heilbronn,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+223,GS,125108,KD,08125108,081255010108,64,74374,Zaberfeld,KR,125,08125,Landkreis,Heilbronn,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+224,GS,125110,KD,08125110,081255011110,64,74182,Obersulm,KR,125,08125,Landkreis,Heilbronn,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+225,GS,125111,KD,08125111,081255009111,64,74239,Hardthausen am Kocher,KR,125,08125,Landkreis,Heilbronn,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+226,GS,125113,KD,08125113,081255009113,64,74243,Langenbrettach,KR,125,08125,Landkreis,Heilbronn,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+227,GS,126011,KD,08126011,081260011011,64,74626,Bretzfeld,KR,126,08126,Landkreis,Hohenlohekreis,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+228,GS,126020,KD,08126020,081265002020,64,74677,Dörzbach,KR,126,08126,Landkreis,Hohenlohekreis,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+229,GS,126028,KD,08126028,081265004028,63,74670,"Forchtenberg, Stadt",KR,126,08126,Landkreis,Hohenlohekreis,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+230,GS,126039,KD,08126039,081265003039,63,74653,"Ingelfingen, Stadt",KR,126,08126,Landkreis,Hohenlohekreis,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+231,GS,126045,KD,08126045,081265002045,63,74238,"Krautheim, Stadt",KR,126,08126,Landkreis,Hohenlohekreis,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+232,GS,126046,KD,08126046,081265003046,63,74653,"Künzelsau, Stadt",KR,126,08126,Landkreis,Hohenlohekreis,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+233,GS,126047,KD,08126047,081265001047,64,74635,Kupferzell,KR,126,08126,Landkreis,Hohenlohekreis,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+234,GS,126056,KD,08126056,081265002056,64,74673,Mulfingen,KR,126,08126,Landkreis,Hohenlohekreis,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+235,GS,126058,KD,08126058,081265001058,63,74632,"Neuenstein, Stadt",KR,126,08126,Landkreis,Hohenlohekreis,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+236,GS,126060,KD,08126060,081265004060,63,74676,"Niedernhall, Stadt",KR,126,08126,Landkreis,Hohenlohekreis,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+237,GS,126066,KD,08126066,081265005066,67,74613,"Öhringen, Stadt",KR,126,08126,Landkreis,Hohenlohekreis,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+238,GS,126069,KD,08126069,081265005069,64,74629,Pfedelbach,KR,126,08126,Landkreis,Hohenlohekreis,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+239,GS,126072,KD,08126072,081260072072,64,74214,Schöntal,KR,126,08126,Landkreis,Hohenlohekreis,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+240,GS,126085,KD,08126085,081265001085,63,74638,"Waldenburg, Stadt",KR,126,08126,Landkreis,Hohenlohekreis,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+241,GS,126086,KD,08126086,081265004086,64,74679,Weißbach,KR,126,08126,Landkreis,Hohenlohekreis,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+242,GS,126094,KD,08126094,081265005094,64,74639,Zweiflingen,KR,126,08126,Landkreis,Hohenlohekreis,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+243,GS,127008,KD,08127008,081270008008,64,74572,Blaufelden,KR,127,08127,Landkreis,Schwäbisch Hall,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+244,GS,127009,KD,08127009,081275001009,64,74542,Braunsbach,KR,127,08127,Landkreis,Schwäbisch Hall,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+245,GS,127012,KD,08127012,081275007012,64,74424,Bühlertann,KR,127,08127,Landkreis,Schwäbisch Hall,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+246,GS,127013,KD,08127013,081275007013,64,74426,Bühlerzell,KR,127,08127,Landkreis,Schwäbisch Hall,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+247,GS,127014,KD,08127014,081275002014,67,74564,"Crailsheim, Stadt",KR,127,08127,Landkreis,Schwäbisch Hall,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+248,GS,127023,KD,08127023,081275006023,64,74427,Fichtenberg,KR,127,08127,Landkreis,Schwäbisch Hall,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+249,GS,127025,KD,08127025,081275006025,63,74405,"Gaildorf, Stadt",KR,127,08127,Landkreis,Schwäbisch Hall,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+250,GS,127032,KD,08127032,081275004032,63,74582,"Gerabronn, Stadt",KR,127,08127,Landkreis,Schwäbisch Hall,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+251,GS,127043,KD,08127043,081275005043,63,74532,"Ilshofen, Stadt",KR,127,08127,Landkreis,Schwäbisch Hall,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+252,GS,127046,KD,08127046,081275008046,63,74592,"Kirchberg an der Jagst, Stadt",KR,127,08127,Landkreis,Schwäbisch Hall,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+253,GS,127047,KD,08127047,081275004047,63,74595,"Langenburg, Stadt",KR,127,08127,Landkreis,Schwäbisch Hall,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+254,GS,127052,KD,08127052,081270052052,64,74535,Mainhardt,KR,127,08127,Landkreis,Schwäbisch Hall,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+255,GS,127056,KD,08127056,081275009056,64,74544,Michelbach an der Bilz,KR,127,08127,Landkreis,Schwäbisch Hall,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+256,GS,127059,KD,08127059,081275009059,64,74545,Michelfeld,KR,127,08127,Landkreis,Schwäbisch Hall,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+257,GS,127062,KD,08127062,081275006062,64,74420,Oberrot,KR,127,08127,Landkreis,Schwäbisch Hall,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+258,GS,127063,KD,08127063,081275007063,64,74423,Obersontheim,KR,127,08127,Landkreis,Schwäbisch Hall,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+259,GS,127071,KD,08127071,081275008071,64,74585,Rot am See,KR,127,08127,Landkreis,Schwäbisch Hall,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+260,GS,127073,KD,08127073,081275002073,64,74589,Satteldorf,KR,127,08127,Landkreis,Schwäbisch Hall,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+261,GS,127075,KD,08127075,081270075075,63,74575,"Schrozberg, Stadt",KR,127,08127,Landkreis,Schwäbisch Hall,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+262,GS,127076,KD,08127076,081275009076,67,74523,"Schwäbisch Hall, Stadt",KR,127,08127,Landkreis,Schwäbisch Hall,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+263,GS,127079,KD,08127079,081275006079,64,74429,Sulzbach-Laufen,KR,127,08127,Landkreis,Schwäbisch Hall,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+264,GS,127086,KD,08127086,081275001086,64,74547,Untermünkheim,KR,127,08127,Landkreis,Schwäbisch Hall,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+266,GS,127091,KD,08127091,081275008091,64,74599,Wallhausen,KR,127,08127,Landkreis,Schwäbisch Hall,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+267,GS,127099,KD,08127099,081275005099,64,74549,Wolpertshausen,KR,127,08127,Landkreis,Schwäbisch Hall,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+268,GS,127100,KD,08127100,081275009100,64,74538,Rosengarten,KR,127,08127,Landkreis,Schwäbisch Hall,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+269,GS,127101,KD,08127101,081275003101,64,74594,Kreßberg,KR,127,08127,Landkreis,Schwäbisch Hall,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+270,GS,127102,KD,08127102,081275003102,64,74579,Fichtenau,KR,127,08127,Landkreis,Schwäbisch Hall,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+271,GS,127103,KD,08127103,081275002103,64,74586,Frankenhardt,KR,127,08127,Landkreis,Schwäbisch Hall,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+272,GS,127104,KD,08127104,081275002104,64,74597,Stimpfach,KR,127,08127,Landkreis,Schwäbisch Hall,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+273,GS,128006,KD,08128006,081285001006,64,97959,Assamstadt,KR,128,08128,Landkreis,Main-Tauber-Kreis,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+274,GS,128007,KD,08128007,081285001007,67,97980,"Bad Mergentheim, Stadt",KR,128,08128,Landkreis,Main-Tauber-Kreis,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+275,GS,128014,KD,08128014,081285002014,63,97944,"Boxberg, Stadt",KR,128,08128,Landkreis,Main-Tauber-Kreis,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+276,GS,128020,KD,08128020,081280020020,63,97993,"Creglingen, Stadt",KR,128,08128,Landkreis,Main-Tauber-Kreis,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+277,GS,128039,KD,08128039,081280039039,63,97896,"Freudenberg, Stadt",KR,128,08128,Landkreis,Main-Tauber-Kreis,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+278,GS,128045,KD,08128045,081285004045,64,97950,Großrinderfeld,KR,128,08128,Landkreis,Main-Tauber-Kreis,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+279,GS,128047,KD,08128047,081285003047,63,97947,"Grünsfeld, Stadt",KR,128,08128,Landkreis,Main-Tauber-Kreis,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+280,GS,128058,KD,08128058,081285001058,64,97999,Igersheim,KR,128,08128,Landkreis,Main-Tauber-Kreis,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+281,GS,128061,KD,08128061,081285004061,64,97953,Königheim,KR,128,08128,Landkreis,Main-Tauber-Kreis,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+282,GS,128064,KD,08128064,081280064064,63,97900,"Külsheim, Stadt",KR,128,08128,Landkreis,Main-Tauber-Kreis,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+283,GS,128082,KD,08128082,081280082082,63,97996,"Niederstetten, Stadt",KR,128,08128,Landkreis,Main-Tauber-Kreis,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+284,GS,128115,KD,08128115,081285004115,63,97941,"Tauberbischofsheim, Stadt",KR,128,08128,Landkreis,Main-Tauber-Kreis,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+285,GS,128126,KD,08128126,081280126126,63,97990,"Weikersheim, Stadt",KR,128,08128,Landkreis,Main-Tauber-Kreis,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+286,GS,128128,KD,08128128,081285004128,64,97956,Werbach,KR,128,08128,Landkreis,Main-Tauber-Kreis,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+287,GS,128131,KD,08128131,081280131131,67,97877,"Wertheim, Stadt",KR,128,08128,Landkreis,Main-Tauber-Kreis,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+288,GS,128137,KD,08128137,081285003137,64,97957,Wittighausen,KR,128,08128,Landkreis,Main-Tauber-Kreis,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+289,GS,128138,KD,08128138,081285002138,64,74744,Ahorn,KR,128,08128,Landkreis,Main-Tauber-Kreis,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+290,GS,128139,KD,08128139,081280139139,63,97922,"Lauda-Königshofen, Stadt",KR,128,08128,Landkreis,Main-Tauber-Kreis,RV,12,0812,Heilbronn-Franken,RB,1,081,Stuttgart
+291,GS,135010,KD,08135010,081350010010,64,89561,Dischingen,KR,135,08135,Landkreis,Heidenheim,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+292,GS,135015,KD,08135015,081350015015,64,89547,Gerstetten,KR,135,08135,Landkreis,Heidenheim,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+293,GS,135016,KD,08135016,081355001016,67,89537,"Giengen an der Brenz, Stadt",KR,135,08135,Landkreis,Heidenheim,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+294,GS,135019,KD,08135019,081355002019,67,89522,"Heidenheim an der Brenz, Stadt",KR,135,08135,Landkreis,Heidenheim,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+295,GS,135020,KD,08135020,081350020020,63,89542,"Herbrechtingen, Stadt",KR,135,08135,Landkreis,Heidenheim,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+296,GS,135021,KD,08135021,081355001021,64,89568,Hermaringen,KR,135,08135,Landkreis,Heidenheim,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+297,GS,135025,KD,08135025,081350025025,64,89551,Königsbronn,KR,135,08135,Landkreis,Heidenheim,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+298,GS,135026,KD,08135026,081355002026,64,89564,Nattheim,KR,135,08135,Landkreis,Heidenheim,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+299,GS,135027,KD,08135027,081355003027,63,89168,"Niederstotzingen, Stadt",KR,135,08135,Landkreis,Heidenheim,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+300,GS,135031,KD,08135031,081355003031,64,89567,Sontheim an der Brenz,KR,135,08135,Landkreis,Heidenheim,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+301,GS,135032,KD,08135032,081350032032,64,89555,Steinheim am Albuch,KR,135,08135,Landkreis,Heidenheim,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+302,GS,136002,KD,08136002,081360002002,64,73453,Abtsgmünd,KR,136,08136,Landkreis,Ostalbkreis,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+303,GS,136003,KD,08136003,081365003003,64,73486,Adelmannsfelden,KR,136,08136,Landkreis,Ostalbkreis,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+304,GS,136007,KD,08136007,081365006007,64,73566,Bartholomä,KR,136,08136,Landkreis,Ostalbkreis,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+305,GS,136009,KD,08136009,081365006009,64,73560,Böbingen an der Rems,KR,136,08136,Landkreis,Ostalbkreis,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+306,GS,136010,KD,08136010,081365002010,63,73441,"Bopfingen, Stadt",KR,136,08136,Landkreis,Ostalbkreis,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+307,GS,136015,KD,08136015,081365008015,64,73568,Durlangen,KR,136,08136,Landkreis,Ostalbkreis,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+308,GS,136018,KD,08136018,081365003018,64,73488,Ellenberg,KR,136,08136,Landkreis,Ostalbkreis,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+309,GS,136019,KD,08136019,081365003019,67,73479,"Ellwangen (Jagst), Stadt",KR,136,08136,Landkreis,Ostalbkreis,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+310,GS,136020,KD,08136020,081365005020,64,73569,Eschach,KR,136,08136,Landkreis,Ostalbkreis,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+311,GS,136021,KD,08136021,081365001021,64,73457,Essingen,KR,136,08136,Landkreis,Ostalbkreis,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+312,GS,136024,KD,08136024,081365005024,64,73571,Göggingen,KR,136,08136,Landkreis,Ostalbkreis,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+313,GS,136027,KD,08136027,081360027027,64,74417,Gschwend,KR,136,08136,Landkreis,Ostalbkreis,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+314,GS,136028,KD,08136028,081365006028,63,73540,"Heubach, Stadt",KR,136,08136,Landkreis,Ostalbkreis,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+315,GS,136029,KD,08136029,081365006029,64,73572,Heuchlingen,KR,136,08136,Landkreis,Ostalbkreis,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+316,GS,136033,KD,08136033,081365001033,64,73460,Hüttlingen,KR,136,08136,Landkreis,Ostalbkreis,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+317,GS,136034,KD,08136034,081365005034,64,73574,Iggingen,KR,136,08136,Landkreis,Ostalbkreis,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+319,GS,136037,KD,08136037,081365002037,64,73467,Kirchheim am Ries,KR,136,08136,Landkreis,Ostalbkreis,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+320,GS,136038,KD,08136038,081365004038,63,73466,"Lauchheim, Stadt",KR,136,08136,Landkreis,Ostalbkreis,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+321,GS,136040,KD,08136040,081365005040,64,73575,Leinzell,KR,136,08136,Landkreis,Ostalbkreis,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+322,GS,136042,KD,08136042,081360042042,63,73547,"Lorch, Stadt",KR,136,08136,Landkreis,Ostalbkreis,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+323,GS,136043,KD,08136043,081365006043,64,73563,Mögglingen,KR,136,08136,Landkreis,Ostalbkreis,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+324,GS,136044,KD,08136044,081365008044,64,73557,Mutlangen,KR,136,08136,Landkreis,Ostalbkreis,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+325,GS,136045,KD,08136045,081360045045,63,73450,"Neresheim, Stadt",KR,136,08136,Landkreis,Ostalbkreis,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+326,GS,136046,KD,08136046,081365003046,64,73491,Neuler,KR,136,08136,Landkreis,Ostalbkreis,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+327,GS,136049,KD,08136049,081365005049,64,73569,Obergröningen,KR,136,08136,Landkreis,Ostalbkreis,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+328,GS,136050,KD,08136050,081360050050,63,73447,"Oberkochen, Stadt",KR,136,08136,Landkreis,Ostalbkreis,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+329,GS,136060,KD,08136060,081365003060,64,73494,Rosenberg,KR,136,08136,Landkreis,Ostalbkreis,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+330,GS,136061,KD,08136061,081365008061,64,73577,Ruppertshofen,KR,136,08136,Landkreis,Ostalbkreis,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+331,GS,136062,KD,08136062,081365005062,64,73579,Schechingen,KR,136,08136,Landkreis,Ostalbkreis,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+332,GS,136065,KD,08136065,081365007065,67,73525,"Schwäbisch Gmünd, Stadt",KR,136,08136,Landkreis,Ostalbkreis,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+333,GS,136066,KD,08136066,081365008066,64,73565,Spraitbach,KR,136,08136,Landkreis,Ostalbkreis,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+334,GS,136068,KD,08136068,081365009068,64,73495,Stödtlen,KR,136,08136,Landkreis,Ostalbkreis,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+335,GS,136070,KD,08136070,081365008070,64,73527,Täferrot,KR,136,08136,Landkreis,Ostalbkreis,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+336,GS,136071,KD,08136071,081365009071,64,73497,Tannhausen,KR,136,08136,Landkreis,Ostalbkreis,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+337,GS,136075,KD,08136075,081365009075,64,73485,Unterschneidheim,KR,136,08136,Landkreis,Ostalbkreis,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+338,GS,136079,KD,08136079,081365007079,64,73550,Waldstetten,KR,136,08136,Landkreis,Ostalbkreis,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+339,GS,136082,KD,08136082,081365004082,64,73463,Westhausen,KR,136,08136,Landkreis,Ostalbkreis,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+340,GS,136084,KD,08136084,081365003084,64,73499,Wört,KR,136,08136,Landkreis,Ostalbkreis,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+341,GS,136087,KD,08136087,081365002087,64,73469,Riesbürg,KR,136,08136,Landkreis,Ostalbkreis,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+342,GS,136088,KD,08136088,081365001088,67,73430,"Aalen, Stadt",KR,136,08136,Landkreis,Ostalbkreis,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+343,GS,136089,KD,08136089,081365003089,64,73492,Rainau,KR,136,08136,Landkreis,Ostalbkreis,RV,13,0813,Ostwürttemberg,RB,1,081,Stuttgart
+344,GS,211000,KD,08211000,082110000000,62,76530,"Baden-Baden, Stadt",KR,211,08211,Stadtkreis,Baden-Baden,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+345,GS,212000,KD,08212000,082120000000,62,76124,"Karlsruhe, Stadt",KR,212,08212,Stadtkreis,Karlsruhe,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+346,GS,215007,KD,08215007,082155002007,67,75015,"Bretten, Stadt",KR,215,08215,Landkreis,Karlsruhe,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+347,GS,215009,KD,08215009,082155003009,67,76646,"Bruchsal, Stadt",KR,215,08215,Landkreis,Karlsruhe,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+348,GS,215017,KD,08215017,082150017017,67,76275,"Ettlingen, Stadt",KR,215,08215,Landkreis,Karlsruhe,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+349,GS,215021,KD,08215021,082155003021,64,76694,Forst,KR,215,08215,Landkreis,Karlsruhe,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+350,GS,215025,KD,08215025,082155002025,64,75053,Gondelsheim,KR,215,08215,Landkreis,Karlsruhe,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+351,GS,215029,KD,08215029,082155003029,64,76707,Hambrücken,KR,215,08215,Landkreis,Karlsruhe,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+352,GS,215039,KD,08215039,082155001039,64,76709,Kronau,KR,215,08215,Landkreis,Karlsruhe,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+353,GS,215040,KD,08215040,082155005040,64,75057,Kürnbach,KR,215,08215,Landkreis,Karlsruhe,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+354,GS,215046,KD,08215046,082150046046,64,76316,Malsch,KR,215,08215,Landkreis,Karlsruhe,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+355,GS,215047,KD,08215047,082150047047,64,76359,Marxzell,KR,215,08215,Landkreis,Karlsruhe,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+356,GS,215059,KD,08215059,082155005059,63,75038,"Oberderdingen, Stadt",KR,215,08215,Landkreis,Karlsruhe,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+357,GS,215064,KD,08215064,082150064064,63,76684,"Östringen, Stadt",KR,215,08215,Landkreis,Karlsruhe,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+358,GS,215066,KD,08215066,082155006066,63,76661,"Philippsburg, Stadt",KR,215,08215,Landkreis,Karlsruhe,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+359,GS,215082,KD,08215082,082155007082,64,75056,Sulzfeld,KR,215,08215,Landkreis,Karlsruhe,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+360,GS,215084,KD,08215084,082150084084,64,76698,Ubstadt-Weiher,KR,215,08215,Landkreis,Karlsruhe,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+361,GS,215089,KD,08215089,082150089089,64,75045,Walzbachtal,KR,215,08215,Landkreis,Karlsruhe,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+362,GS,215090,KD,08215090,082150090090,64,76356,Weingarten (Baden),KR,215,08215,Landkreis,Karlsruhe,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+363,GS,215094,KD,08215094,082155007094,64,75059,Zaisenhausen,KR,215,08215,Landkreis,Karlsruhe,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+364,GS,215096,KD,08215096,082150096096,64,76307,Karlsbad,KR,215,08215,Landkreis,Karlsruhe,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+365,GS,215097,KD,08215097,082150097097,63,76703,"Kraichtal, Stadt",KR,215,08215,Landkreis,Karlsruhe,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+366,GS,215099,KD,08215099,082155004099,64,76676,Graben-Neudorf,KR,215,08215,Landkreis,Karlsruhe,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+367,GS,215100,KD,08215100,082155001100,64,76669,Bad Schönborn,KR,215,08215,Landkreis,Karlsruhe,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+368,GS,215101,KD,08215101,082150101101,64,76327,Pfinztal,KR,215,08215,Landkreis,Karlsruhe,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+369,GS,215102,KD,08215102,082150102102,64,76344,Eggenstein-Leopoldshafen,KR,215,08215,Landkreis,Karlsruhe,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+370,GS,215103,KD,08215103,082155003103,64,76689,Karlsdorf-Neuthard,KR,215,08215,Landkreis,Karlsruhe,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+372,GS,215106,KD,08215106,082150106106,67,68753,"Waghäusel, Stadt",KR,215,08215,Landkreis,Karlsruhe,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+373,GS,215107,KD,08215107,082155006107,64,68794,Oberhausen-Rheinhausen,KR,215,08215,Landkreis,Karlsruhe,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+374,GS,215108,KD,08215108,082150108108,67,76287,"Rheinstetten, Stadt",KR,215,08215,Landkreis,Karlsruhe,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+375,GS,215109,KD,08215109,082150109109,67,76297,"Stutensee, Stadt",KR,215,08215,Landkreis,Karlsruhe,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+376,GS,215110,KD,08215110,082150110110,64,76337,Waldbronn,KR,215,08215,Landkreis,Karlsruhe,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+377,GS,215111,KD,08215111,082155004111,64,76706,Dettenheim,KR,215,08215,Landkreis,Karlsruhe,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+378,GS,216002,KD,08216002,082165003002,64,76474,Au am Rhein,KR,216,08216,Landkreis,Rastatt,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+379,GS,216005,KD,08216005,082165003005,64,76467,Bietigheim,KR,216,08216,Landkreis,Rastatt,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+380,GS,216006,KD,08216006,082165001006,64,76476,Bischweier,KR,216,08216,Landkreis,Rastatt,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+381,GS,216007,KD,08216007,082165002007,67,77815,"Bühl, Stadt",KR,216,08216,Landkreis,Rastatt,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+382,GS,216008,KD,08216008,082160008008,64,77830,Bühlertal,KR,216,08216,Landkreis,Rastatt,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+383,GS,216009,KD,08216009,082165003009,64,76448,Durmersheim,KR,216,08216,Landkreis,Rastatt,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+384,GS,216012,KD,08216012,082165003012,64,76477,Elchesheim-Illingen,KR,216,08216,Landkreis,Rastatt,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+385,GS,216013,KD,08216013,082160013013,64,76596,Forbach,KR,216,08216,Landkreis,Rastatt,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+386,GS,216015,KD,08216015,082160015015,67,76571,"Gaggenau, Stadt",KR,216,08216,Landkreis,Rastatt,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+387,GS,216017,KD,08216017,082165004017,63,76593,"Gernsbach, Stadt",KR,216,08216,Landkreis,Rastatt,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+388,GS,216022,KD,08216022,082165007022,64,76549,Hügelsheim,KR,216,08216,Landkreis,Rastatt,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+389,GS,216023,KD,08216023,082165005023,64,76473,Iffezheim,KR,216,08216,Landkreis,Rastatt,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+390,GS,216024,KD,08216024,082165001024,63,76456,"Kuppenheim, Stadt",KR,216,08216,Landkreis,Rastatt,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+391,GS,216028,KD,08216028,082165006028,63,77839,"Lichtenau, Stadt",KR,216,08216,Landkreis,Rastatt,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+392,GS,216029,KD,08216029,082165004029,64,76597,Loffenau,KR,216,08216,Landkreis,Rastatt,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+393,GS,216033,KD,08216033,082165005033,64,76461,Muggensturm,KR,216,08216,Landkreis,Rastatt,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+394,GS,216039,KD,08216039,082165005039,64,76470,Ötigheim,KR,216,08216,Landkreis,Rastatt,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+395,GS,216041,KD,08216041,082165002041,64,77833,Ottersweier,KR,216,08216,Landkreis,Rastatt,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+396,GS,216043,KD,08216043,082165005043,67,76437,"Rastatt, Stadt",KR,216,08216,Landkreis,Rastatt,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+397,GS,216049,KD,08216049,082165007049,64,76547,Sinzheim,KR,216,08216,Landkreis,Rastatt,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+398,GS,216052,KD,08216052,082165005052,64,76479,Steinmauern,KR,216,08216,Landkreis,Rastatt,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+399,GS,216059,KD,08216059,082165004059,64,76599,Weisenbach,KR,216,08216,Landkreis,Rastatt,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+400,GS,216063,KD,08216063,082165006063,64,77836,Rheinmünster,KR,216,08216,Landkreis,Rastatt,RV,21,0821,Karlsruhe,RB,2,082,Karlsruhe
+401,GS,221000,KD,08221000,082210000000,62,69117,"Heidelberg, Stadt",KR,221,08221,Stadtkreis,Heidelberg,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+402,GS,222000,KD,08222000,082220000000,62,68159,"Mannheim, Universitätsstadt",KR,222,08222,Stadtkreis,Mannheim,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+403,GS,225001,KD,08225001,082255009001,63,74740,"Adelsheim, Stadt",KR,225,08225,Landkreis,Neckar-Odenwald-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+404,GS,225002,KD,08225002,082255003002,64,74858,Aglasterhausen,KR,225,08225,Landkreis,Neckar-Odenwald-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+405,GS,225009,KD,08225009,082255008009,64,74842,Billigheim,KR,225,08225,Landkreis,Neckar-Odenwald-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+406,GS,225010,KD,08225010,082255006010,64,74862,Binau,KR,225,08225,Landkreis,Neckar-Odenwald-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+407,GS,225014,KD,08225014,082250014014,63,74722,"Buchen (Odenwald), Stadt",KR,225,08225,Landkreis,Neckar-Odenwald-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+408,GS,225024,KD,08225024,082255004024,64,74864,Fahrenbach,KR,225,08225,Landkreis,Neckar-Odenwald-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+409,GS,225032,KD,08225032,082255001032,64,74736,Hardheim,KR,225,08225,Landkreis,Neckar-Odenwald-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+410,GS,225033,KD,08225033,082255002033,64,74855,Haßmersheim,KR,225,08225,Landkreis,Neckar-Odenwald-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+411,GS,225039,KD,08225039,082255001039,64,74746,Höpfingen,KR,225,08225,Landkreis,Neckar-Odenwald-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+412,GS,225042,KD,08225042,082255002042,64,74928,Hüffenhardt,KR,225,08225,Landkreis,Neckar-Odenwald-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+413,GS,225052,KD,08225052,082255004052,64,74838,Limbach,KR,225,08225,Landkreis,Neckar-Odenwald-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+414,GS,225058,KD,08225058,082255005058,67,74821,"Mosbach, Stadt",KR,225,08225,Landkreis,Neckar-Odenwald-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+415,GS,225060,KD,08225060,082250060060,64,69427,Mudau,KR,225,08225,Landkreis,Neckar-Odenwald-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+416,GS,225064,KD,08225064,082255006064,64,69437,Neckargerach,KR,225,08225,Landkreis,Neckar-Odenwald-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+417,GS,225067,KD,08225067,082255005067,64,74865,Neckarzimmern,KR,225,08225,Landkreis,Neckar-Odenwald-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+418,GS,225068,KD,08225068,082255003068,64,74867,Neunkirchen,KR,225,08225,Landkreis,Neckar-Odenwald-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+419,GS,225074,KD,08225074,082255005074,64,74847,Obrigheim,KR,225,08225,Landkreis,Neckar-Odenwald-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+420,GS,225075,KD,08225075,082255007075,63,74706,"Osterburken, Stadt",KR,225,08225,Landkreis,Neckar-Odenwald-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+421,GS,225082,KD,08225082,082255007082,64,74749,Rosenberg,KR,225,08225,Landkreis,Neckar-Odenwald-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+422,GS,225091,KD,08225091,082255009091,64,74743,Seckach,KR,225,08225,Landkreis,Neckar-Odenwald-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+423,GS,225109,KD,08225109,082255001109,63,74731,"Walldürn, Stadt",KR,225,08225,Landkreis,Neckar-Odenwald-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+425,GS,225114,KD,08225114,082255007114,63,74747,"Ravenstein, Stadt",KR,225,08225,Landkreis,Neckar-Odenwald-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+426,GS,225115,KD,08225115,082255008115,64,74850,Schefflenz,KR,225,08225,Landkreis,Neckar-Odenwald-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+427,GS,225116,KD,08225116,082255003116,64,74869,Schwarzach,KR,225,08225,Landkreis,Neckar-Odenwald-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+428,GS,225117,KD,08225117,082255005117,64,74834,Elztal,KR,225,08225,Landkreis,Neckar-Odenwald-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+429,GS,225118,KD,08225118,082255006118,64,69429,Waldbrunn,KR,225,08225,Landkreis,Neckar-Odenwald-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+430,GS,226003,KD,08226003,082265004003,64,68804,Altlußheim,KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+431,GS,226006,KD,08226006,082265005006,64,69245,Bammental,KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+432,GS,226009,KD,08226009,082260009009,64,68782,Brühl,KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+433,GS,226010,KD,08226010,082265010010,64,69234,Dielheim,KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+434,GS,226012,KD,08226012,082260012012,64,69221,Dossenheim,KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+435,GS,226013,KD,08226013,082265001013,63,69412,"Eberbach, Stadt",KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+436,GS,226017,KD,08226017,082265009017,64,74925,Epfenbach,KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+437,GS,226018,KD,08226018,082260018018,63,69214,"Eppelheim, Stadt",KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+438,GS,226020,KD,08226020,082265002020,64,74927,Eschelbronn,KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+439,GS,226022,KD,08226022,082265005022,64,69251,Gaiberg,KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+440,GS,226027,KD,08226027,082265007027,64,69434,Heddesbach,KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+441,GS,226028,KD,08226028,082260028028,64,68542,Heddesheim,KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+442,GS,226029,KD,08226029,082265007029,64,69253,Heiligkreuzsteinach,KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+443,GS,226031,KD,08226031,082265003031,63,69502,"Hemsbach, Stadt",KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+444,GS,226032,KD,08226032,082265004032,67,68766,"Hockenheim, Stadt",KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+445,GS,226036,KD,08226036,082260036036,64,68549,Ilvesheim,KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+446,GS,226037,KD,08226037,082260037037,64,68775,Ketsch,KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+447,GS,226038,KD,08226038,082260038038,63,68526,"Ladenburg, Stadt",KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+448,GS,226040,KD,08226040,082265003040,64,69514,Laudenbach,KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+449,GS,226041,KD,08226041,082260041041,67,69181,"Leimen, Stadt",KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+450,GS,226046,KD,08226046,082265006046,64,69254,Malsch,KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+451,GS,226048,KD,08226048,082265002048,64,69256,Mauer,KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+452,GS,226049,KD,08226049,082265002049,64,74909,Meckesheim,KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+453,GS,226054,KD,08226054,082265006054,64,69242,Mühlhausen,KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+454,GS,226055,KD,08226055,082265009055,63,74924,"Neckarbischofsheim, Stadt",KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+455,GS,226056,KD,08226056,082265005056,63,69151,"Neckargemünd, Stadt",KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+456,GS,226058,KD,08226058,082265009058,64,74933,Neidenstein,KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+457,GS,226059,KD,08226059,082265004059,64,68809,Neulußheim,KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+458,GS,226060,KD,08226060,082260060060,64,69226,Nußloch,KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+459,GS,226062,KD,08226062,082260062062,64,68723,Oftersheim,KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+460,GS,226063,KD,08226063,082260063063,64,68723,Plankstadt,KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+461,GS,226065,KD,08226065,082265006065,63,69231,"Rauenberg, Stadt",KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+462,GS,226066,KD,08226066,082265009066,64,74934,Reichartshausen,KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+463,GS,226068,KD,08226068,082265004068,64,68799,Reilingen,KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+464,GS,226076,KD,08226076,082260076076,64,69207,Sandhausen,KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+465,GS,226080,KD,08226080,082265007080,63,69250,"Schönau, Stadt",KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+466,GS,226081,KD,08226081,082265001081,64,69436,Schönbrunn,KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+467,GS,226082,KD,08226082,082260082082,63,69198,"Schriesheim, Stadt",KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+468,GS,226084,KD,08226084,082260084084,67,68723,"Schwetzingen, Stadt",KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+469,GS,226085,KD,08226085,082265008085,67,74889,"Sinsheim, Stadt",KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+470,GS,226086,KD,08226086,082265002086,64,74937,Spechbach,KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+471,GS,226091,KD,08226091,082265009091,63,74915,"Waibstadt, Stadt",KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+472,GS,226095,KD,08226095,082260095095,63,69190,"Walldorf, Stadt",KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+473,GS,226096,KD,08226096,082260096096,67,69469,"Weinheim, Stadt",KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+474,GS,226097,KD,08226097,082265005097,64,69257,Wiesenbach,KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+475,GS,226098,KD,08226098,082265010098,67,69168,"Wiesloch, Stadt",KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+476,GS,226099,KD,08226099,082265007099,64,69259,Wilhelmsfeld,KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+478,GS,226102,KD,08226102,082265008102,64,74918,Angelbachtal,KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+479,GS,226103,KD,08226103,082260103103,64,68789,St. Leon-Rot,KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+480,GS,226104,KD,08226104,082265002104,64,74931,Lobbach,KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+481,GS,226105,KD,08226105,082260105105,64,68535,Edingen-Neckarhausen,KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+482,GS,226106,KD,08226106,082265009106,64,74921,Helmstadt-Bargen,KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+483,GS,226107,KD,08226107,082260107107,64,69493,Hirschberg an der Bergstraße,KR,226,08226,Landkreis,Rhein-Neckar-Kreis,RV,22,0822,Rhein-Neckar,RB,2,082,Karlsruhe
+484,GS,231000,KD,08231000,082310000000,62,75175,"Pforzheim, Stadt",KR,231,08231,Stadtkreis,Pforzheim,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+485,GS,235006,KD,08235006,082355001006,63,72213,"Altensteig, Stadt",KR,235,08235,Landkreis,Calw,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+486,GS,235007,KD,08235007,082355002007,64,75382,Althengstett,KR,235,08235,Landkreis,Calw,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+487,GS,235008,KD,08235008,082355004008,63,75378,"Bad Liebenzell, Stadt",KR,235,08235,Landkreis,Calw,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+488,GS,235018,KD,08235018,082355003018,64,75335,Dobel,KR,235,08235,Landkreis,Calw,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+489,GS,235020,KD,08235020,082355007020,64,72224,Ebhausen,KR,235,08235,Landkreis,Calw,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+490,GS,235022,KD,08235022,082355001022,64,72227,Egenhausen,KR,235,08235,Landkreis,Calw,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+491,GS,235025,KD,08235025,082355008025,64,75337,Enzklösterle,KR,235,08235,Landkreis,Calw,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+492,GS,235029,KD,08235029,082355002029,64,75391,Gechingen,KR,235,08235,Landkreis,Calw,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+493,GS,235032,KD,08235032,082355007032,63,72221,"Haiterbach, Stadt",KR,235,08235,Landkreis,Calw,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+494,GS,235033,KD,08235033,082355003033,63,76332,"Bad Herrenalb, Stadt",KR,235,08235,Landkreis,Calw,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+495,GS,235035,KD,08235035,082355008035,64,75339,Höfen an der Enz,KR,235,08235,Landkreis,Calw,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+496,GS,235046,KD,08235046,082355007046,67,72202,"Nagold, Stadt",KR,235,08235,Landkreis,Calw,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+497,GS,235047,KD,08235047,082355005047,63,75387,"Neubulach, Stadt",KR,235,08235,Landkreis,Calw,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+498,GS,235050,KD,08235050,082355005050,64,75389,Neuweiler,KR,235,08235,Landkreis,Calw,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+499,GS,235055,KD,08235055,082355006055,64,75394,Oberreichenbach,KR,235,08235,Landkreis,Calw,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+500,GS,235057,KD,08235057,082355002057,64,75395,Ostelsheim,KR,235,08235,Landkreis,Calw,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+501,GS,235060,KD,08235060,082355007060,64,72229,Rohrdorf,KR,235,08235,Landkreis,Calw,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+502,GS,235065,KD,08235065,082350065065,64,75328,Schömberg,KR,235,08235,Landkreis,Calw,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+503,GS,235066,KD,08235066,082355001066,64,72226,Simmersfeld,KR,235,08235,Landkreis,Calw,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+504,GS,235067,KD,08235067,082355002067,64,75397,Simmozheim,KR,235,08235,Landkreis,Calw,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+505,GS,235073,KD,08235073,082355004073,64,75399,Unterreichenbach,KR,235,08235,Landkreis,Calw,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+506,GS,235079,KD,08235079,082355008079,63,75323,"Bad Wildbad, Stadt",KR,235,08235,Landkreis,Calw,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+507,GS,235080,KD,08235080,082350080080,63,72218,"Wildberg, Stadt",KR,235,08235,Landkreis,Calw,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+508,GS,235084,KD,08235084,082355005084,63,75385,"Bad Teinach-Zavelstein, Stadt",KR,235,08235,Landkreis,Calw,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+509,GS,235085,KD,08235085,082355006085,67,75365,"Calw, Stadt",KR,235,08235,Landkreis,Calw,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+510,GS,236004,KD,08236004,082360004004,64,75217,Birkenfeld,KR,236,08236,Landkreis,Enzkreis,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+511,GS,236011,KD,08236011,082365002011,64,75239,Eisingen,KR,236,08236,Landkreis,Enzkreis,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+512,GS,236013,KD,08236013,082365005013,64,75331,Engelsbrand,KR,236,08236,Landkreis,Enzkreis,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+513,GS,236019,KD,08236019,082365001019,64,71292,Friolzheim,KR,236,08236,Landkreis,Enzkreis,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+514,GS,236025,KD,08236025,082365001025,63,71296,"Heimsheim, Stadt",KR,236,08236,Landkreis,Enzkreis,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+515,GS,236028,KD,08236028,082360028028,64,75428,Illingen,KR,236,08236,Landkreis,Enzkreis,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+516,GS,236030,KD,08236030,082360030030,64,75228,Ispringen,KR,236,08236,Landkreis,Enzkreis,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+517,GS,236031,KD,08236031,082365006031,64,75249,Kieselbronn,KR,236,08236,Landkreis,Enzkreis,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+518,GS,236033,KD,08236033,082360033033,63,75438,"Knittlingen, Stadt",KR,236,08236,Landkreis,Enzkreis,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+519,GS,236038,KD,08236038,082365003038,63,75433,"Maulbronn, Stadt",KR,236,08236,Landkreis,Enzkreis,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+520,GS,236039,KD,08236039,082365001039,64,71297,Mönsheim,KR,236,08236,Landkreis,Enzkreis,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+521,GS,236040,KD,08236040,082365004040,67,75417,"Mühlacker, Stadt",KR,236,08236,Landkreis,Enzkreis,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+522,GS,236043,KD,08236043,082365005043,63,75305,"Neuenbürg, Stadt",KR,236,08236,Landkreis,Enzkreis,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+523,GS,236044,KD,08236044,082365007044,64,75242,Neuhausen,KR,236,08236,Landkreis,Enzkreis,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+524,GS,236046,KD,08236046,082360046046,64,75223,Niefern-Öschelbronn,KR,236,08236,Landkreis,Enzkreis,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+525,GS,236050,KD,08236050,082365004050,64,75443,Ötisheim,KR,236,08236,Landkreis,Enzkreis,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+526,GS,236061,KD,08236061,082365003061,64,75447,Sternenfels,KR,236,08236,Landkreis,Enzkreis,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+527,GS,236062,KD,08236062,082365007062,64,75233,Tiefenbronn,KR,236,08236,Landkreis,Enzkreis,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+528,GS,236065,KD,08236065,082365001065,64,75446,Wiernsheim,KR,236,08236,Landkreis,Enzkreis,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+529,GS,236067,KD,08236067,082365001067,64,71299,Wimsheim,KR,236,08236,Landkreis,Enzkreis,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+531,GS,236070,KD,08236070,082360070070,64,75210,Keltern,KR,236,08236,Landkreis,Enzkreis,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+532,GS,236071,KD,08236071,082360071071,64,75196,Remchingen,KR,236,08236,Landkreis,Enzkreis,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+533,GS,236072,KD,08236072,082360072072,64,75334,Straubenhardt,KR,236,08236,Landkreis,Enzkreis,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+534,GS,236073,KD,08236073,082365006073,64,75245,Neulingen,KR,236,08236,Landkreis,Enzkreis,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+535,GS,236074,KD,08236074,082365002074,64,75236,Kämpfelbach,KR,236,08236,Landkreis,Enzkreis,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+536,GS,236075,KD,08236075,082365006075,64,75248,Ölbronn-Dürrn,KR,236,08236,Landkreis,Enzkreis,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+537,GS,236076,KD,08236076,082365002076,64,75203,Königsbach-Stein,KR,236,08236,Landkreis,Enzkreis,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+538,GS,237002,KD,08237002,082370002002,63,72275,"Alpirsbach, Stadt",KR,237,08237,Landkreis,Freudenstadt,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+539,GS,237004,KD,08237004,082370004004,64,72270,Baiersbronn,KR,237,08237,Landkreis,Freudenstadt,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+540,GS,237019,KD,08237019,082375001019,63,72280,"Dornstetten, Stadt",KR,237,08237,Landkreis,Freudenstadt,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+541,GS,237024,KD,08237024,082375003024,64,72186,Empfingen,KR,237,08237,Landkreis,Freudenstadt,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+542,GS,237027,KD,08237027,082375003027,64,72184,Eutingen im Gäu,KR,237,08237,Landkreis,Freudenstadt,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+543,GS,237028,KD,08237028,082375002028,67,72250,"Freudenstadt, Stadt",KR,237,08237,Landkreis,Freudenstadt,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+544,GS,237030,KD,08237030,082375001030,64,72293,Glatten,KR,237,08237,Landkreis,Freudenstadt,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+545,GS,237032,KD,08237032,082375005032,64,72294,Grömbach,KR,237,08237,Landkreis,Freudenstadt,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+546,GS,237040,KD,08237040,082375003040,67,72160,"Horb am Neckar, Stadt",KR,237,08237,Landkreis,Freudenstadt,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+547,GS,237045,KD,08237045,082370045045,64,72290,Loßburg,KR,237,08237,Landkreis,Freudenstadt,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+548,GS,237054,KD,08237054,082375005054,64,72285,Pfalzgrafenweiler,KR,237,08237,Landkreis,Freudenstadt,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+549,GS,237061,KD,08237061,082375001061,64,72296,Schopfloch,KR,237,08237,Landkreis,Freudenstadt,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+550,GS,237072,KD,08237072,082375005072,64,72299,Wörnersberg,KR,237,08237,Landkreis,Freudenstadt,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+551,GS,237073,KD,08237073,082375002073,64,72297,Seewald,KR,237,08237,Landkreis,Freudenstadt,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+552,GS,237074,KD,08237074,082375001074,64,72178,Waldachtal,KR,237,08237,Landkreis,Freudenstadt,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+553,GS,237075,KD,08237075,082375002075,64,77776,Bad Rippoldsau-Schapbach,KR,237,08237,Landkreis,Freudenstadt,RV,23,0823,Nordschwarzwald,RB,2,082,Karlsruhe
+554,GS,311000,KD,08311000,083110000000,62,79098,"Freiburg im Breisgau, Stadt",KR,311,08311,Stadtkreis,Freiburg im Breisgau,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+555,GS,315003,KD,08315003,083155007003,64,79280,Au,KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+556,GS,315004,KD,08315004,083155012004,64,79424,Auggen,KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+557,GS,315006,KD,08315006,083155001006,67,79189,"Bad Krozingen, Stadt",KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+558,GS,315007,KD,08315007,083155012007,64,79410,Badenweiler,KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+559,GS,315008,KD,08315008,083155006008,64,79282,Ballrechten-Dottingen,KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+560,GS,315013,KD,08315013,083155009013,64,79268,Bötzingen,KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+561,GS,315014,KD,08315014,083155004014,64,79283,Bollschweil,KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+562,GS,315015,KD,08315015,083155002015,63,79206,"Breisach am Rhein, Stadt",KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+563,GS,315016,KD,08315016,083155008016,64,79874,Breitnau,KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+564,GS,315020,KD,08315020,083155003020,64,79256,Buchenbach,KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+565,GS,315022,KD,08315022,083155012022,64,79426,Buggingen,KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+566,GS,315028,KD,08315028,083155014028,64,79285,Ebringen,KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+567,GS,315030,KD,08315030,083155009030,64,79356,Eichstetten am Kaiserstuhl,KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+568,GS,315031,KD,08315031,083155017031,64,79871,Eisenbach (Hochschwarzwald),KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+569,GS,315033,KD,08315033,083155006033,64,79427,Eschbach,KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+570,GS,315037,KD,08315037,083155015037,64,79868,Feldberg (Schwarzwald),KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+571,GS,315039,KD,08315039,083155010039,64,79877,Friedenweiler,KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+572,GS,315041,KD,08315041,083155013041,64,79286,Glottertal,KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+573,GS,315043,KD,08315043,083155009043,64,79288,Gottenheim,KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+574,GS,315047,KD,08315047,083155005047,64,79194,Gundelfingen,KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+575,GS,315048,KD,08315048,083155001048,64,79258,Hartheim am Rhein,KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+576,GS,315050,KD,08315050,083155006050,63,79423,"Heitersheim, Stadt",KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+577,GS,315051,KD,08315051,083155005051,64,79194,Heuweiler,KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+578,GS,315052,KD,08315052,083155008052,64,79856,Hinterzarten,KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+579,GS,315056,KD,08315056,083155007056,64,79289,Horben,KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+580,GS,315059,KD,08315059,083155002059,64,79241,Ihringen,KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+581,GS,315064,KD,08315064,083155003064,64,79199,Kirchzarten,KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+582,GS,315068,KD,08315068,083150068068,64,79853,Lenzkirch,KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+584,GS,315072,KD,08315072,083155002072,64,79291,Merdingen,KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+585,GS,315073,KD,08315073,083155007073,64,79249,Merzhausen,KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+586,GS,315074,KD,08315074,083155012074,63,79379,"Müllheim im Markgräflerland, Stadt",KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+587,GS,315076,KD,08315076,083150076076,63,79395,"Neuenburg am Rhein, Stadt",KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+588,GS,315084,KD,08315084,083155003084,64,79254,Oberried,KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+589,GS,315089,KD,08315089,083155014089,64,79292,Pfaffenweiler,KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+590,GS,315094,KD,08315094,083155013094,64,79274,St. Märgen,KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+591,GS,315095,KD,08315095,083155013095,64,79271,St. Peter,KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+592,GS,315098,KD,08315098,083155014098,64,79227,Schallstadt,KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+593,GS,315102,KD,08315102,083155015102,64,79859,Schluchsee,KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+594,GS,315107,KD,08315107,083155007107,64,79294,Sölden,KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+595,GS,315108,KD,08315108,083155016108,63,79219,"Staufen im Breisgau, Stadt",KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+596,GS,315109,KD,08315109,083155003109,64,79252,Stegen,KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+597,GS,315111,KD,08315111,083155012111,63,79295,"Sulzburg, Stadt",KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+598,GS,315113,KD,08315113,083155017113,63,79822,"Titisee-Neustadt, Stadt",KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+599,GS,315115,KD,08315115,083155011115,64,79224,Umkirch,KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+600,GS,315125,KD,08315125,083155007125,64,79299,Wittnau,KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+601,GS,315130,KD,08315130,083155016130,64,79244,Münstertal/Schwarzwald,KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+602,GS,315131,KD,08315131,083155004131,64,79238,Ehrenkirchen,KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+603,GS,315132,KD,08315132,083155011132,64,79232,March,KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+604,GS,315133,KD,08315133,083150133133,63,79235,"Vogtsburg im Kaiserstuhl, Stadt",KR,315,08315,Landkreis,Breisgau-Hochschwarzwald,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+605,GS,316002,KD,08316002,083165005002,64,79353,Bahlingen am Kaiserstuhl,KR,316,08316,Landkreis,Emmendingen,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+606,GS,316003,KD,08316003,083165002003,64,79215,Biederbach,KR,316,08316,Landkreis,Emmendingen,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+607,GS,316009,KD,08316009,083165001009,64,79211,Denzlingen,KR,316,08316,Landkreis,Emmendingen,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+608,GS,316010,KD,08316010,083165002010,63,79215,"Elzach, Stadt",KR,316,08316,Landkreis,Emmendingen,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+609,GS,316011,KD,08316011,083165003011,67,79312,"Emmendingen, Stadt",KR,316,08316,Landkreis,Emmendingen,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+610,GS,316012,KD,08316012,083165005012,63,79346,"Endingen am Kaiserstuhl, Stadt",KR,316,08316,Landkreis,Emmendingen,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+611,GS,316013,KD,08316013,083165005013,64,79362,Forchheim,KR,316,08316,Landkreis,Emmendingen,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+612,GS,316014,KD,08316014,083165006014,64,79261,Gutach im Breisgau,KR,316,08316,Landkreis,Emmendingen,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+613,GS,316017,KD,08316017,083165004017,63,79336,"Herbolzheim, Stadt",KR,316,08316,Landkreis,Emmendingen,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+614,GS,316020,KD,08316020,083165004020,63,79341,"Kenzingen, Stadt",KR,316,08316,Landkreis,Emmendingen,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+615,GS,316024,KD,08316024,083165003024,64,79364,Malterdingen,KR,316,08316,Landkreis,Emmendingen,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+616,GS,316036,KD,08316036,083165001036,64,79276,Reute,KR,316,08316,Landkreis,Emmendingen,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+617,GS,316037,KD,08316037,083165005037,64,79359,Riegel am Kaiserstuhl,KR,316,08316,Landkreis,Emmendingen,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+618,GS,316038,KD,08316038,083165005038,64,79361,Sasbach am Kaiserstuhl,KR,316,08316,Landkreis,Emmendingen,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+619,GS,316039,KD,08316039,083165003039,64,79350,Sexau,KR,316,08316,Landkreis,Emmendingen,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+620,GS,316042,KD,08316042,083165006042,64,79263,Simonswald,KR,316,08316,Landkreis,Emmendingen,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+621,GS,316043,KD,08316043,083165003043,64,79331,Teningen,KR,316,08316,Landkreis,Emmendingen,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+622,GS,316045,KD,08316045,083165001045,64,79279,Vörstetten,KR,316,08316,Landkreis,Emmendingen,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+623,GS,316049,KD,08316049,083165004049,64,79367,Weisweil,KR,316,08316,Landkreis,Emmendingen,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+624,GS,316051,KD,08316051,083165005051,64,79369,Wyhl am Kaiserstuhl,KR,316,08316,Landkreis,Emmendingen,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+625,GS,316053,KD,08316053,083165004053,64,79365,Rheinhausen im Breisgau,KR,316,08316,Landkreis,Emmendingen,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+626,GS,316054,KD,08316054,083165003054,64,79348,Freiamt,KR,316,08316,Landkreis,Emmendingen,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+627,GS,316055,KD,08316055,083165002055,64,79297,Winden im Elztal,KR,316,08316,Landkreis,Emmendingen,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+628,GS,316056,KD,08316056,083165006056,67,79183,"Waldkirch, Stadt",KR,316,08316,Landkreis,Emmendingen,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+629,GS,317001,KD,08317001,083175001001,67,77855,"Achern, Stadt",KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+630,GS,317005,KD,08317005,083170005005,64,77767,Appenweier,KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+631,GS,317008,KD,08317008,083175008008,64,77740,Bad Peterstal-Griesbach,KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+632,GS,317009,KD,08317009,083175003009,64,77791,Berghaupten,KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+633,GS,317011,KD,08317011,083175014011,64,77781,Biberach,KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+634,GS,317021,KD,08317021,083175010021,64,77770,Durbach,KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+635,GS,317026,KD,08317026,083175002026,63,77955,"Ettenheim, Stadt",KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+637,GS,317031,KD,08317031,083170031031,64,77948,Friesenheim,KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+638,GS,317034,KD,08317034,083175003034,63,77723,"Gengenbach, Stadt",KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+639,GS,317039,KD,08317039,083175005039,64,77793,Gutach (Schwarzwaldbahn),KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+640,GS,317040,KD,08317040,083175004040,63,77716,"Haslach im Kinzigtal, Stadt",KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+641,GS,317041,KD,08317041,083175005041,63,77756,"Hausach, Stadt",KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+642,GS,317046,KD,08317046,083175004046,64,77716,Hofstetten,KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+643,GS,317047,KD,08317047,083175010047,64,77749,Hohberg,KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+644,GS,317051,KD,08317051,083170051051,63,78132,"Hornberg, Stadt",KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+645,GS,317056,KD,08317056,083175006056,64,77876,Kappelrodeck,KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+646,GS,317057,KD,08317057,083170057057,67,77694,"Kehl, Stadt",KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+647,GS,317059,KD,08317059,083175007059,64,77971,Kippenheim,KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+648,GS,317065,KD,08317065,083175007065,67,77933,"Lahr/Schwarzwald, Stadt",KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+649,GS,317067,KD,08317067,083175009067,64,77794,Lautenbach,KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+650,GS,317068,KD,08317068,083175001068,64,77886,Lauf,KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+651,GS,317073,KD,08317073,083175002073,63,77972,"Mahlberg, Stadt",KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+652,GS,317075,KD,08317075,083175012075,64,77974,Meißenheim,KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+653,GS,317078,KD,08317078,083175004078,64,77796,Mühlenbach,KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+654,GS,317085,KD,08317085,083175014085,64,77787,Nordrach,KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+655,GS,317088,KD,08317088,083175014088,64,77784,Oberharmersbach,KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+656,GS,317089,KD,08317089,083175009089,67,77704,"Oberkirch, Stadt",KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+657,GS,317093,KD,08317093,083175013093,64,77709,Oberwolfach,KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+658,GS,317096,KD,08317096,083175010096,67,77652,"Offenburg, Stadt",KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+659,GS,317097,KD,08317097,083175003097,64,77797,Ohlsbach,KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+660,GS,317098,KD,08317098,083175008098,63,77728,"Oppenau, Stadt",KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+661,GS,317100,KD,08317100,083175010100,64,77799,Ortenberg,KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+662,GS,317102,KD,08317102,083175006102,64,77883,Ottenhöfen im Schwarzwald,KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+663,GS,317110,KD,08317110,083175009110,63,77871,"Renchen, Stadt",KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+664,GS,317113,KD,08317113,083175002113,64,77975,Ringsheim,KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+665,GS,317114,KD,08317114,083175002114,64,77977,Rust,KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+666,GS,317116,KD,08317116,083175001116,64,77880,Sasbach,KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+667,GS,317118,KD,08317118,083175001118,64,77887,Sasbachwalden,KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+668,GS,317121,KD,08317121,083175011121,64,77978,Schuttertal,KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+669,GS,317122,KD,08317122,083175010122,64,77746,Schutterwald,KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+670,GS,317126,KD,08317126,083175006126,64,77889,Seebach,KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+671,GS,317127,KD,08317127,083175011127,64,77960,Seelbach,KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+672,GS,317129,KD,08317129,083175004129,64,77790,Steinach,KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+673,GS,317141,KD,08317141,083170141141,64,77731,Willstätt,KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+674,GS,317145,KD,08317145,083175013145,63,77709,"Wolfach, Stadt",KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+675,GS,317146,KD,08317146,083175014146,63,77736,"Zell am Harmersbach, Stadt",KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+676,GS,317150,KD,08317150,083175012150,64,77963,Schwanau,KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+677,GS,317151,KD,08317151,083170151151,64,77743,Neuried,KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+678,GS,317152,KD,08317152,083175002152,64,77966,Kappel-Grafenhausen,KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+679,GS,317153,KD,08317153,083170153153,63,77866,"Rheinau, Stadt",KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+680,GS,325001,KD,08325001,083255005001,64,78733,Aichhalden,KR,325,08325,Landkreis,Rottweil,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+681,GS,325009,KD,08325009,083255007009,64,78662,Bösingen,KR,325,08325,Landkreis,Rottweil,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+682,GS,325011,KD,08325011,083255003011,64,78661,Dietingen,KR,325,08325,Landkreis,Rottweil,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+683,GS,325012,KD,08325012,083250012012,63,72175,"Dornhan, Stadt",KR,325,08325,Landkreis,Rottweil,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+684,GS,325014,KD,08325014,083255001014,64,78655,Dunningen,KR,325,08325,Landkreis,Rottweil,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+685,GS,325015,KD,08325015,083255002015,64,78736,Epfendorf,KR,325,08325,Landkreis,Rottweil,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+686,GS,325024,KD,08325024,083255005024,64,78739,Hardt,KR,325,08325,Landkreis,Rottweil,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+687,GS,325036,KD,08325036,083255005036,64,78730,Lauterbach,KR,325,08325,Landkreis,Rottweil,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+688,GS,325045,KD,08325045,083255002045,63,78727,"Oberndorf am Neckar, Stadt",KR,325,08325,Landkreis,Rottweil,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+690,GS,325050,KD,08325050,083255004050,64,77773,Schenkenzell,KR,325,08325,Landkreis,Rottweil,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+691,GS,325051,KD,08325051,083255004051,63,77761,"Schiltach, Stadt",KR,325,08325,Landkreis,Rottweil,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+692,GS,325053,KD,08325053,083255005053,67,78713,"Schramberg, Stadt",KR,325,08325,Landkreis,Rottweil,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+693,GS,325057,KD,08325057,083255006057,63,72172,"Sulz am Neckar, Stadt",KR,325,08325,Landkreis,Rottweil,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+694,GS,325060,KD,08325060,083255007060,64,78667,Villingendorf,KR,325,08325,Landkreis,Rottweil,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+695,GS,325061,KD,08325061,083255006061,64,72189,Vöhringen,KR,325,08325,Landkreis,Rottweil,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+696,GS,325064,KD,08325064,083255003064,64,78669,Wellendingen,KR,325,08325,Landkreis,Rottweil,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+697,GS,325069,KD,08325069,083255003069,64,78658,Zimmern ob Rottweil,KR,325,08325,Landkreis,Rottweil,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+698,GS,325070,KD,08325070,083255002070,64,78737,Fluorn-Winzeln,KR,325,08325,Landkreis,Rottweil,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+699,GS,325071,KD,08325071,083255001071,64,78664,Eschbronn,KR,325,08325,Landkreis,Rottweil,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+700,GS,325072,KD,08325072,083255003072,64,78652,Deißlingen,KR,325,08325,Landkreis,Rottweil,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+701,GS,326003,KD,08326003,083260003003,63,78073,"Bad Dürrheim, Stadt",KR,326,08326,Landkreis,Schwarzwald-Baar-Kreis,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+702,GS,326005,KD,08326005,083260005005,63,78176,"Blumberg, Stadt",KR,326,08326,Landkreis,Schwarzwald-Baar-Kreis,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+703,GS,326006,KD,08326006,083265001006,63,78199,"Bräunlingen, Stadt",KR,326,08326,Landkreis,Schwarzwald-Baar-Kreis,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+704,GS,326010,KD,08326010,083265004010,64,78083,Dauchingen,KR,326,08326,Landkreis,Schwarzwald-Baar-Kreis,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+705,GS,326012,KD,08326012,083265001012,67,78166,"Donaueschingen, Stadt",KR,326,08326,Landkreis,Schwarzwald-Baar-Kreis,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+706,GS,326017,KD,08326017,083265002017,63,78120,"Furtwangen im Schwarzwald, Stadt",KR,326,08326,Landkreis,Schwarzwald-Baar-Kreis,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+707,GS,326020,KD,08326020,083265002020,64,78148,Gütenbach,KR,326,08326,Landkreis,Schwarzwald-Baar-Kreis,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+708,GS,326027,KD,08326027,083265001027,63,78183,"Hüfingen, Stadt",KR,326,08326,Landkreis,Schwarzwald-Baar-Kreis,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+709,GS,326031,KD,08326031,083260031031,64,78126,Königsfeld im Schwarzwald,KR,326,08326,Landkreis,Schwarzwald-Baar-Kreis,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+710,GS,326037,KD,08326037,083265004037,64,78087,Mönchweiler,KR,326,08326,Landkreis,Schwarzwald-Baar-Kreis,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+711,GS,326041,KD,08326041,083265004041,64,78078,Niedereschach,KR,326,08326,Landkreis,Schwarzwald-Baar-Kreis,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+712,GS,326052,KD,08326052,083260052052,63,78112,"St. Georgen im Schwarzwald, Stadt",KR,326,08326,Landkreis,Schwarzwald-Baar-Kreis,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+713,GS,326054,KD,08326054,083265003054,64,78141,Schönwald im Schwarzwald,KR,326,08326,Landkreis,Schwarzwald-Baar-Kreis,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+714,GS,326055,KD,08326055,083265003055,64,78136,Schonach im Schwarzwald,KR,326,08326,Landkreis,Schwarzwald-Baar-Kreis,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+715,GS,326060,KD,08326060,083265003060,63,78098,"Triberg im Schwarzwald, Stadt",KR,326,08326,Landkreis,Schwarzwald-Baar-Kreis,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+716,GS,326061,KD,08326061,083265004061,64,78609,Tuningen,KR,326,08326,Landkreis,Schwarzwald-Baar-Kreis,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+717,GS,326065,KD,08326065,083265004065,64,78089,Unterkirnach,KR,326,08326,Landkreis,Schwarzwald-Baar-Kreis,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+718,GS,326068,KD,08326068,083260068068,63,78147,"Vöhrenbach, Stadt",KR,326,08326,Landkreis,Schwarzwald-Baar-Kreis,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+719,GS,326074,KD,08326074,083265004074,67,78050,"Villingen-Schwenningen, Stadt",KR,326,08326,Landkreis,Schwarzwald-Baar-Kreis,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+720,GS,326075,KD,08326075,083265004075,64,78086,Brigachtal,KR,326,08326,Landkreis,Schwarzwald-Baar-Kreis,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+721,GS,327002,KD,08327002,083275004002,64,78554,Aldingen,KR,327,08327,Landkreis,Tuttlingen,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+722,GS,327004,KD,08327004,083275001004,64,78580,Bärenthal,KR,327,08327,Landkreis,Tuttlingen,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+723,GS,327005,KD,08327005,083275004005,64,78582,Balgheim,KR,327,08327,Landkreis,Tuttlingen,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+724,GS,327006,KD,08327006,083275004006,64,78583,Böttingen,KR,327,08327,Landkreis,Tuttlingen,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+725,GS,327007,KD,08327007,083275002007,64,78585,Bubsheim,KR,327,08327,Landkreis,Tuttlingen,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+726,GS,327008,KD,08327008,083275001008,64,88637,Buchheim,KR,327,08327,Landkreis,Tuttlingen,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+727,GS,327009,KD,08327009,083275002009,64,78586,Deilingen,KR,327,08327,Landkreis,Tuttlingen,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+728,GS,327010,KD,08327010,083275004010,64,78588,Denkingen,KR,327,08327,Landkreis,Tuttlingen,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+729,GS,327011,KD,08327011,083275004011,64,78589,Dürbheim,KR,327,08327,Landkreis,Tuttlingen,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+730,GS,327012,KD,08327012,083275005012,64,78591,Durchhausen,KR,327,08327,Landkreis,Tuttlingen,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+731,GS,327013,KD,08327013,083275002013,64,78592,Egesheim,KR,327,08327,Landkreis,Tuttlingen,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+732,GS,327016,KD,08327016,083275001016,63,78567,"Fridingen an der Donau, Stadt",KR,327,08327,Landkreis,Tuttlingen,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+733,GS,327017,KD,08327017,083275004017,64,78665,Frittlingen,KR,327,08327,Landkreis,Tuttlingen,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+734,GS,327018,KD,08327018,083275003018,63,78187,"Geisingen, Stadt",KR,327,08327,Landkreis,Tuttlingen,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+735,GS,327019,KD,08327019,083275002019,64,78559,Gosheim,KR,327,08327,Landkreis,Tuttlingen,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+736,GS,327020,KD,08327020,083275005020,64,78594,Gunningen,KR,327,08327,Landkreis,Tuttlingen,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+737,GS,327023,KD,08327023,083275004023,64,78595,Hausen ob Verena,KR,327,08327,Landkreis,Tuttlingen,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+738,GS,327025,KD,08327025,083275003025,64,78194,Immendingen,KR,327,08327,Landkreis,Tuttlingen,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+739,GS,327027,KD,08327027,083275001027,64,78597,Irndorf,KR,327,08327,Landkreis,Tuttlingen,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+740,GS,327029,KD,08327029,083275002029,64,78598,Königsheim,KR,327,08327,Landkreis,Tuttlingen,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+741,GS,327030,KD,08327030,083275001030,64,78600,Kolbingen,KR,327,08327,Landkreis,Tuttlingen,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+743,GS,327036,KD,08327036,083275001036,63,78570,"Mühlheim an der Donau, Stadt",KR,327,08327,Landkreis,Tuttlingen,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+744,GS,327038,KD,08327038,083275006038,64,78579,Neuhausen ob Eck,KR,327,08327,Landkreis,Tuttlingen,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+745,GS,327040,KD,08327040,083275002040,64,78564,Reichenbach am Heuberg,KR,327,08327,Landkreis,Tuttlingen,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+746,GS,327041,KD,08327041,083275001041,64,78603,Renquishausen,KR,327,08327,Landkreis,Tuttlingen,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+747,GS,327046,KD,08327046,083275004046,63,78549,"Spaichingen, Stadt",KR,327,08327,Landkreis,Tuttlingen,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+748,GS,327048,KD,08327048,083275005048,64,78607,Talheim,KR,327,08327,Landkreis,Tuttlingen,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+749,GS,327049,KD,08327049,083275005049,63,78647,"Trossingen, Stadt",KR,327,08327,Landkreis,Tuttlingen,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+750,GS,327050,KD,08327050,083275006050,67,78532,"Tuttlingen, Stadt",KR,327,08327,Landkreis,Tuttlingen,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+751,GS,327051,KD,08327051,083275002051,64,78564,Wehingen,KR,327,08327,Landkreis,Tuttlingen,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+752,GS,327054,KD,08327054,083275006054,64,78573,Wurmlingen,KR,327,08327,Landkreis,Tuttlingen,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+753,GS,327055,KD,08327055,083275006055,64,78606,Seitingen-Oberflacht,KR,327,08327,Landkreis,Tuttlingen,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+754,GS,327056,KD,08327056,083275006056,64,78604,Rietheim-Weilheim,KR,327,08327,Landkreis,Tuttlingen,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+755,GS,327057,KD,08327057,083275006057,64,78576,Emmingen-Liptingen,KR,327,08327,Landkreis,Tuttlingen,RV,32,0832,Schwarzwald-Baar-Heuberg,RB,3,083,Freiburg
+756,GS,335001,KD,08335001,083355001001,63,78267,"Aach, Stadt",KR,335,08335,Landkreis,Konstanz,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+757,GS,335002,KD,08335002,083355004002,64,78476,Allensbach,KR,335,08335,Landkreis,Konstanz,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+758,GS,335015,KD,08335015,083355002015,64,78266,Büsingen am Hochrhein,KR,335,08335,Landkreis,Konstanz,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+759,GS,335021,KD,08335021,083355006021,64,78253,Eigeltingen,KR,335,08335,Landkreis,Konstanz,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+760,GS,335022,KD,08335022,083355001022,63,78234,"Engen, Stadt",KR,335,08335,Landkreis,Konstanz,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+761,GS,335025,KD,08335025,083355003025,64,78343,Gaienhofen,KR,335,08335,Landkreis,Konstanz,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+762,GS,335026,KD,08335026,083355002026,64,78262,Gailingen am Hochrhein,KR,335,08335,Landkreis,Konstanz,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+763,GS,335028,KD,08335028,083355002028,64,78244,Gottmadingen,KR,335,08335,Landkreis,Konstanz,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+764,GS,335035,KD,08335035,083350035035,64,78247,Hilzingen,KR,335,08335,Landkreis,Konstanz,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+765,GS,335043,KD,08335043,083355004043,67,78462,"Konstanz, Universitätsstadt",KR,335,08335,Landkreis,Konstanz,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+766,GS,335055,KD,08335055,083355003055,64,78345,Moos,KR,335,08335,Landkreis,Konstanz,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+767,GS,335057,KD,08335057,083355006057,64,78357,Mühlingen,KR,335,08335,Landkreis,Konstanz,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+768,GS,335061,KD,08335061,083355003061,64,78337,Öhningen,KR,335,08335,Landkreis,Konstanz,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+769,GS,335063,KD,08335063,083350063063,67,78315,"Radolfzell am Bodensee, Stadt",KR,335,08335,Landkreis,Konstanz,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+770,GS,335066,KD,08335066,083355004066,64,78479,Reichenau,KR,335,08335,Landkreis,Konstanz,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+771,GS,335075,KD,08335075,083355005075,67,78224,"Singen (Hohentwiel), Stadt",KR,335,08335,Landkreis,Konstanz,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+772,GS,335077,KD,08335077,083355005077,64,78256,Steißlingen,KR,335,08335,Landkreis,Konstanz,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+773,GS,335079,KD,08335079,083355006079,63,78333,"Stockach, Stadt",KR,335,08335,Landkreis,Konstanz,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+774,GS,335080,KD,08335080,083350080080,63,78250,"Tengen, Stadt",KR,335,08335,Landkreis,Konstanz,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+775,GS,335081,KD,08335081,083355005081,64,78269,Volkertshausen,KR,335,08335,Landkreis,Konstanz,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+776,GS,335096,KD,08335096,083355006096,64,78355,Hohenfels,KR,335,08335,Landkreis,Konstanz,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+777,GS,335097,KD,08335097,083355001097,64,78259,Mühlhausen-Ehingen,KR,335,08335,Landkreis,Konstanz,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+778,GS,335098,KD,08335098,083355006098,64,78351,Bodman-Ludwigshafen,KR,335,08335,Landkreis,Konstanz,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+779,GS,335099,KD,08335099,083355006099,64,78359,Orsingen-Nenzingen,KR,335,08335,Landkreis,Konstanz,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+780,GS,335100,KD,08335100,083355005100,64,78239,Rielasingen-Worblingen,KR,335,08335,Landkreis,Konstanz,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+781,GS,336004,KD,08336004,083365006004,64,79677,Aitern,KR,336,08336,Landkreis,Lörrach,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+782,GS,336006,KD,08336006,083365005006,64,79415,Bad Bellingen,KR,336,08336,Landkreis,Lörrach,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+783,GS,336008,KD,08336008,083365008008,64,79589,Binzen,KR,336,08336,Landkreis,Lörrach,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+784,GS,336010,KD,08336010,083365006010,64,79677,Böllen,KR,336,08336,Landkreis,Lörrach,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+785,GS,336014,KD,08336014,083360014014,64,79588,Efringen-Kirchen,KR,336,08336,Landkreis,Lörrach,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+786,GS,336019,KD,08336019,083365008019,64,79591,Eimeldingen,KR,336,08336,Landkreis,Lörrach,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+787,GS,336024,KD,08336024,083365008024,64,79592,Fischingen,KR,336,08336,Landkreis,Lörrach,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+788,GS,336025,KD,08336025,083365006025,64,79677,Fröhnd,KR,336,08336,Landkreis,Lörrach,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+789,GS,336034,KD,08336034,083365007034,64,79686,Hasel,KR,336,08336,Landkreis,Lörrach,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+790,GS,336036,KD,08336036,083365007036,64,79688,Hausen im Wiesental,KR,336,08336,Landkreis,Lörrach,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+791,GS,336043,KD,08336043,083365003043,64,79594,Inzlingen,KR,336,08336,Landkreis,Lörrach,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+792,GS,336045,KD,08336045,083365001045,63,79400,"Kandern, Stadt",KR,336,08336,Landkreis,Lörrach,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+793,GS,336050,KD,08336050,083365003050,67,79539,"Lörrach, Stadt",KR,336,08336,Landkreis,Lörrach,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+794,GS,336057,KD,08336057,083365007057,64,79689,Maulburg,KR,336,08336,Landkreis,Lörrach,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+796,GS,336073,KD,08336073,083365008073,64,79595,Rümmingen,KR,336,08336,Landkreis,Lörrach,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+797,GS,336075,KD,08336075,083365008075,64,79597,Schallbach,KR,336,08336,Landkreis,Lörrach,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+798,GS,336078,KD,08336078,083365005078,64,79418,Schliengen,KR,336,08336,Landkreis,Lörrach,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+799,GS,336079,KD,08336079,083365006079,63,79677,"Schönau im Schwarzwald, Stadt",KR,336,08336,Landkreis,Lörrach,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+800,GS,336080,KD,08336080,083365006080,64,79677,Schönenberg,KR,336,08336,Landkreis,Lörrach,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+801,GS,336081,KD,08336081,083365007081,63,79650,"Schopfheim, Stadt",KR,336,08336,Landkreis,Lörrach,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+802,GS,336082,KD,08336082,083365004082,64,79739,Schwörstadt,KR,336,08336,Landkreis,Lörrach,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+803,GS,336084,KD,08336084,083360084084,64,79585,Steinen,KR,336,08336,Landkreis,Lörrach,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+804,GS,336087,KD,08336087,083360087087,63,79674,"Todtnau, Stadt",KR,336,08336,Landkreis,Lörrach,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+805,GS,336089,KD,08336089,083365006089,64,79677,Tunau,KR,336,08336,Landkreis,Lörrach,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+806,GS,336090,KD,08336090,083365006090,64,79694,Utzenfeld,KR,336,08336,Landkreis,Lörrach,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+807,GS,336091,KD,08336091,083360091091,67,79576,"Weil am Rhein, Stadt",KR,336,08336,Landkreis,Lörrach,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+808,GS,336094,KD,08336094,083365006094,64,79677,Wembach,KR,336,08336,Landkreis,Lörrach,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+809,GS,336096,KD,08336096,083365006096,64,79695,Wieden,KR,336,08336,Landkreis,Lörrach,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+810,GS,336100,KD,08336100,083365008100,64,79599,Wittlingen,KR,336,08336,Landkreis,Lörrach,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+811,GS,336103,KD,08336103,083365009103,63,79669,"Zell im Wiesental, Stadt",KR,336,08336,Landkreis,Lörrach,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+812,GS,336104,KD,08336104,083365001104,64,79429,Malsburg-Marzell,KR,336,08336,Landkreis,Lörrach,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+813,GS,336105,KD,08336105,083360105105,64,79639,Grenzach-Wyhlen,KR,336,08336,Landkreis,Lörrach,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+814,GS,336106,KD,08336106,083365009106,64,79685,Häg-Ehrsberg,KR,336,08336,Landkreis,Lörrach,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+815,GS,336107,KD,08336107,083360107107,64,79692,Kleines Wiesental,KR,336,08336,Landkreis,Lörrach,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+816,GS,337002,KD,08337002,083370002002,64,79774,Albbruck,KR,337,08337,Landkreis,Waldshut,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+817,GS,337013,KD,08337013,083375006013,64,79872,Bernau im Schwarzwald,KR,337,08337,Landkreis,Waldshut,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+818,GS,337022,KD,08337022,083375001022,63,79848,"Bonndorf im Schwarzwald, Stadt",KR,337,08337,Landkreis,Waldshut,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+819,GS,337027,KD,08337027,083375006027,64,79875,Dachsberg (Südschwarzwald),KR,337,08337,Landkreis,Waldshut,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+820,GS,337030,KD,08337030,083375002030,64,79802,Dettighofen,KR,337,08337,Landkreis,Waldshut,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+821,GS,337032,KD,08337032,083375007032,64,79804,Dogern,KR,337,08337,Landkreis,Waldshut,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+822,GS,337038,KD,08337038,083370038038,64,79733,Görwihl,KR,337,08337,Landkreis,Waldshut,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+823,GS,337039,KD,08337039,083375004039,64,79865,Grafenhausen,KR,337,08337,Landkreis,Waldshut,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+824,GS,337045,KD,08337045,083375006045,64,79837,Häusern,KR,337,08337,Landkreis,Waldshut,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+825,GS,337049,KD,08337049,083375005049,64,79737,Herrischried,KR,337,08337,Landkreis,Waldshut,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+826,GS,337051,KD,08337051,083375006051,64,79862,Höchenschwand,KR,337,08337,Landkreis,Waldshut,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+827,GS,337053,KD,08337053,083375003053,64,79801,Hohentengen am Hochrhein,KR,337,08337,Landkreis,Waldshut,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+828,GS,337059,KD,08337059,083375006059,64,79837,Ibach,KR,337,08337,Landkreis,Waldshut,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+829,GS,337060,KD,08337060,083375002060,64,79798,Jestetten,KR,337,08337,Landkreis,Waldshut,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+830,GS,337062,KD,08337062,083370062062,64,79771,Klettgau,KR,337,08337,Landkreis,Waldshut,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+831,GS,337065,KD,08337065,083375007065,64,79787,Lauchringen,KR,337,08337,Landkreis,Waldshut,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+832,GS,337066,KD,08337066,083370066066,63,79725,"Laufenburg (Baden), Stadt",KR,337,08337,Landkreis,Waldshut,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+833,GS,337070,KD,08337070,083375002070,64,79807,Lottstetten,KR,337,08337,Landkreis,Waldshut,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+834,GS,337076,KD,08337076,083375005076,64,79730,Murg,KR,337,08337,Landkreis,Waldshut,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+835,GS,337090,KD,08337090,083375005090,64,79736,Rickenbach,KR,337,08337,Landkreis,Waldshut,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+836,GS,337096,KD,08337096,083375005096,63,79713,"Bad Säckingen, Stadt",KR,337,08337,Landkreis,Waldshut,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+837,GS,337097,KD,08337097,083375006097,63,79837,"St. Blasien, Stadt",KR,337,08337,Landkreis,Waldshut,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+838,GS,337106,KD,08337106,083370106106,63,79780,"Stühlingen, Stadt",KR,337,08337,Landkreis,Waldshut,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+839,GS,337108,KD,08337108,083375006108,64,79682,Todtmoos,KR,337,08337,Landkreis,Waldshut,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+840,GS,337116,KD,08337116,083370116116,63,79664,"Wehr, Stadt",KR,337,08337,Landkreis,Waldshut,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+841,GS,337118,KD,08337118,083375007118,64,79809,Weilheim,KR,337,08337,Landkreis,Waldshut,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+842,GS,337123,KD,08337123,083375008123,64,79793,Wutöschingen,KR,337,08337,Landkreis,Waldshut,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+843,GS,337124,KD,08337124,083375008124,64,79805,Eggingen,KR,337,08337,Landkreis,Waldshut,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+844,GS,337125,KD,08337125,083375003125,64,79790,Küssaberg,KR,337,08337,Landkreis,Waldshut,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+845,GS,337126,KD,08337126,083375007126,67,79761,"Waldshut-Tiengen, Stadt",KR,337,08337,Landkreis,Waldshut,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+846,GS,337127,KD,08337127,083375001127,64,79879,Wutach,KR,337,08337,Landkreis,Waldshut,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+847,GS,337128,KD,08337128,083375004128,64,79777,Ühlingen-Birkendorf,KR,337,08337,Landkreis,Waldshut,RV,33,0833,Hochrhein-Bodensee,RB,3,083,Freiburg
+849,GS,415019,KD,08415019,084150019019,64,72800,Eningen unter Achalm,KR,415,08415,Landkreis,Reutlingen,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+850,GS,415027,KD,08415027,084155003027,64,72532,Gomadingen,KR,415,08415,Landkreis,Reutlingen,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+851,GS,415028,KD,08415028,084155005028,64,72582,Grabenstetten,KR,415,08415,Landkreis,Reutlingen,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+852,GS,415029,KD,08415029,084155002029,64,72661,Grafenberg,KR,415,08415,Landkreis,Reutlingen,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+853,GS,415034,KD,08415034,084155006034,63,72534,"Hayingen, Stadt",KR,415,08415,Landkreis,Reutlingen,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+854,GS,415039,KD,08415039,084155005039,64,72584,Hülben,KR,415,08415,Landkreis,Reutlingen,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+855,GS,415048,KD,08415048,084155003048,64,72537,Mehrstetten,KR,415,08415,Landkreis,Reutlingen,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+856,GS,415050,KD,08415050,084155002050,67,72555,"Metzingen, Stadt",KR,415,08415,Landkreis,Reutlingen,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+857,GS,415053,KD,08415053,084155003053,63,72525,"Münsingen, Stadt",KR,415,08415,Landkreis,Reutlingen,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+858,GS,415058,KD,08415058,084155006058,64,72539,Pfronstetten,KR,415,08415,Landkreis,Reutlingen,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+859,GS,415059,KD,08415059,084150059059,63,72793,"Pfullingen, Stadt",KR,415,08415,Landkreis,Reutlingen,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+860,GS,415060,KD,08415060,084155004060,64,72124,Pliezhausen,KR,415,08415,Landkreis,Reutlingen,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+861,GS,415061,KD,08415061,084150061061,67,72764,"Reutlingen, Stadt",KR,415,08415,Landkreis,Reutlingen,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+862,GS,415062,KD,08415062,084155002062,64,72585,Riederich,KR,415,08415,Landkreis,Reutlingen,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+863,GS,415073,KD,08415073,084150073073,63,72818,"Trochtelfingen, Stadt",KR,415,08415,Landkreis,Reutlingen,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+864,GS,415078,KD,08415078,084155005078,63,72574,"Bad Urach, Stadt",KR,415,08415,Landkreis,Reutlingen,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+865,GS,415080,KD,08415080,084150080080,64,72827,Wannweil,KR,415,08415,Landkreis,Reutlingen,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+866,GS,415085,KD,08415085,084155006085,64,88529,Zwiefalten,KR,415,08415,Landkreis,Reutlingen,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+867,GS,415087,KD,08415087,084155004087,64,72141,Walddorfhäslach,KR,415,08415,Landkreis,Reutlingen,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+868,GS,415088,KD,08415088,084155005088,64,72587,Römerstein,KR,415,08415,Landkreis,Reutlingen,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+869,GS,415089,KD,08415089,084155001089,64,72829,Engstingen,KR,415,08415,Landkreis,Reutlingen,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+870,GS,415090,KD,08415090,084155001090,64,72531,Hohenstein,KR,415,08415,Landkreis,Reutlingen,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+871,GS,415091,KD,08415091,084150091091,64,72820,Sonnenbühl,KR,415,08415,Landkreis,Reutlingen,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+872,GS,415092,KD,08415092,084150092092,64,72805,Lichtenstein,KR,415,08415,Landkreis,Reutlingen,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+873,GS,415093,KD,08415093,084150093093,64,72813,St. Johann,KR,415,08415,Landkreis,Reutlingen,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+874,GS,416006,KD,08416006,084165002006,64,72411,Bodelshausen,KR,416,08416,Landkreis,Tübingen,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+875,GS,416009,KD,08416009,084160009009,64,72135,Dettenhausen,KR,416,08416,Landkreis,Tübingen,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+876,GS,416011,KD,08416011,084165001011,64,72144,Dußlingen,KR,416,08416,Landkreis,Tübingen,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+877,GS,416015,KD,08416015,084165001015,64,72810,Gomaringen,KR,416,08416,Landkreis,Tübingen,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+878,GS,416018,KD,08416018,084165003018,64,72145,Hirrlingen,KR,416,08416,Landkreis,Tübingen,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+879,GS,416022,KD,08416022,084160022022,64,72138,Kirchentellinsfurt,KR,416,08416,Landkreis,Tübingen,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+880,GS,416023,KD,08416023,084160023023,64,72127,Kusterdingen,KR,416,08416,Landkreis,Tübingen,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+881,GS,416025,KD,08416025,084165002025,67,72116,"Mössingen, Stadt",KR,416,08416,Landkreis,Tübingen,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+882,GS,416026,KD,08416026,084165001026,64,72147,Nehren,KR,416,08416,Landkreis,Tübingen,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+883,GS,416031,KD,08416031,084165002031,64,72131,Ofterdingen,KR,416,08416,Landkreis,Tübingen,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+884,GS,416036,KD,08416036,084165003036,67,72108,"Rottenburg am Neckar, Stadt",KR,416,08416,Landkreis,Tübingen,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+885,GS,416041,KD,08416041,084160041041,67,72070,"Tübingen, Universitätsstadt",KR,416,08416,Landkreis,Tübingen,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+886,GS,416048,KD,08416048,084160048048,64,72119,Ammerbuch,KR,416,08416,Landkreis,Tübingen,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+887,GS,416049,KD,08416049,084165003049,64,72149,Neustetten,KR,416,08416,Landkreis,Tübingen,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+888,GS,416050,KD,08416050,084165003050,64,72181,Starzach,KR,416,08416,Landkreis,Tübingen,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+889,GS,417002,KD,08417002,084175002002,67,72336,"Balingen, Stadt",KR,417,08417,Landkreis,Zollernalbkreis,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+890,GS,417008,KD,08417008,084175003008,64,72406,Bisingen,KR,417,08417,Landkreis,Zollernalbkreis,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+891,GS,417010,KD,08417010,084175001010,64,72475,Bitz,KR,417,08417,Landkreis,Zollernalbkreis,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+892,GS,417013,KD,08417013,084170013013,63,72393,"Burladingen, Stadt",KR,417,08417,Landkreis,Zollernalbkreis,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+893,GS,417014,KD,08417014,084175006014,64,72356,Dautmergen,KR,417,08417,Landkreis,Zollernalbkreis,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+894,GS,417015,KD,08417015,084175006015,64,72358,Dormettingen,KR,417,08417,Landkreis,Zollernalbkreis,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+895,GS,417016,KD,08417016,084175006016,64,72359,Dotternhausen,KR,417,08417,Landkreis,Zollernalbkreis,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+896,GS,417022,KD,08417022,084175002022,63,72351,"Geislingen, Stadt",KR,417,08417,Landkreis,Zollernalbkreis,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+897,GS,417023,KD,08417023,084175003023,64,72415,Grosselfingen,KR,417,08417,Landkreis,Zollernalbkreis,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+898,GS,417025,KD,08417025,084170025025,63,72401,"Haigerloch, Stadt",KR,417,08417,Landkreis,Zollernalbkreis,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+899,GS,417029,KD,08417029,084175006029,64,72361,Hausen am Tann,KR,417,08417,Landkreis,Zollernalbkreis,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+900,GS,417031,KD,08417031,084175004031,63,72379,"Hechingen, Stadt",KR,417,08417,Landkreis,Zollernalbkreis,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+902,GS,417044,KD,08417044,084175005044,63,72469,"Meßstetten, Stadt",KR,417,08417,Landkreis,Zollernalbkreis,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+903,GS,417045,KD,08417045,084175005045,64,72362,Nusplingen,KR,417,08417,Landkreis,Zollernalbkreis,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+904,GS,417047,KD,08417047,084175005047,64,72364,Obernheim,KR,417,08417,Landkreis,Zollernalbkreis,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+905,GS,417051,KD,08417051,084175004051,64,72414,Rangendingen,KR,417,08417,Landkreis,Zollernalbkreis,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+906,GS,417052,KD,08417052,084175006052,64,72365,Ratshausen,KR,417,08417,Landkreis,Zollernalbkreis,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+907,GS,417054,KD,08417054,084170054054,63,72348,"Rosenfeld, Stadt",KR,417,08417,Landkreis,Zollernalbkreis,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+908,GS,417057,KD,08417057,084175006057,63,72355,"Schömberg, Stadt",KR,417,08417,Landkreis,Zollernalbkreis,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+909,GS,417063,KD,08417063,084175007063,64,72479,Straßberg,KR,417,08417,Landkreis,Zollernalbkreis,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+910,GS,417071,KD,08417071,084175006071,64,72367,Weilen unter den Rinnen,KR,417,08417,Landkreis,Zollernalbkreis,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+911,GS,417075,KD,08417075,084175007075,64,72474,Winterlingen,KR,417,08417,Landkreis,Zollernalbkreis,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+912,GS,417078,KD,08417078,084175006078,64,72369,Zimmern unter der Burg,KR,417,08417,Landkreis,Zollernalbkreis,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+913,GS,417079,KD,08417079,084175001079,67,72458,"Albstadt, Stadt",KR,417,08417,Landkreis,Zollernalbkreis,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
+914,GS,421000,KD,08421000,084210000000,62,89073,"Ulm, Universitätsstadt",KR,421,08421,Stadtkreis,Ulm,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+915,GS,425002,KD,08425002,084255001002,64,89604,Allmendingen,KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+916,GS,425004,KD,08425004,084255001004,64,89605,Altheim,KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+917,GS,425005,KD,08425005,084255008005,64,89174,Altheim (Alb),KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+918,GS,425008,KD,08425008,084255009008,64,73340,Amstetten,KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+919,GS,425011,KD,08425011,084255008011,64,89176,Asselfingen,KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+920,GS,425013,KD,08425013,084255008013,64,89177,Ballendorf,KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+921,GS,425014,KD,08425014,084255004014,64,89179,Beimerstetten,KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+922,GS,425017,KD,08425017,084255002017,64,89180,Berghülen,KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+923,GS,425019,KD,08425019,084255008019,64,89182,Bernstadt,KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+924,GS,425020,KD,08425020,084255002020,63,89143,"Blaubeuren, Stadt",KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+925,GS,425022,KD,08425022,084255008022,64,89177,Börslingen,KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+926,GS,425024,KD,08425024,084255008024,64,89183,Breitingen,KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+927,GS,425028,KD,08425028,084255003028,63,89165,"Dietenheim, Stadt",KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+928,GS,425031,KD,08425031,084255004031,64,89160,Dornstadt,KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+929,GS,425033,KD,08425033,084255005033,67,89584,"Ehingen (Donau), Stadt",KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+930,GS,425035,KD,08425035,084255010035,64,88499,Emeringen,KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+931,GS,425036,KD,08425036,084255010036,64,89607,Emerkingen,KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+932,GS,425039,KD,08425039,084250039039,63,89155,"Erbach, Stadt",KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+933,GS,425050,KD,08425050,084255005050,64,89608,Griesingen,KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+934,GS,425052,KD,08425052,084255010052,64,89613,Grundsheim,KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+935,GS,425055,KD,08425055,084255010055,64,89597,Hausen am Bussen,KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+936,GS,425062,KD,08425062,084255008062,64,89183,Holzkirch,KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+937,GS,425064,KD,08425064,084255006064,64,89185,Hüttisheim,KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+938,GS,425066,KD,08425066,084255003066,64,89186,Illerrieden,KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+939,GS,425071,KD,08425071,084255007071,63,89150,"Laichingen, Stadt",KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+940,GS,425072,KD,08425072,084255008072,63,89129,"Langenau, Stadt",KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+941,GS,425073,KD,08425073,084255010073,64,89584,Lauterach,KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+942,GS,425075,KD,08425075,084255009075,64,89173,Lonsee,KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+943,GS,425079,KD,08425079,084255007079,64,89188,Merklingen,KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+944,GS,425081,KD,08425081,084255010081,63,89597,"Munderkingen, Stadt",KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+945,GS,425083,KD,08425083,084255008083,64,89189,Neenstetten,KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+946,GS,425084,KD,08425084,084255007084,64,89191,Nellingen,KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+947,GS,425085,KD,08425085,084255008085,64,89129,Nerenstetten,KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+948,GS,425088,KD,08425088,084255005088,64,89610,Oberdischingen,KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+949,GS,425090,KD,08425090,084255010090,64,89611,Obermarchtal,KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+950,GS,425091,KD,08425091,084255010091,64,89613,Oberstadion,KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+951,GS,425092,KD,08425092,084255008092,64,89129,Öllingen,KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+952,GS,425093,KD,08425093,084255005093,64,89614,Öpfingen,KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+953,GS,425097,KD,08425097,084255008097,64,89192,Rammingen,KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+955,GS,425104,KD,08425104,084255010104,64,89616,Rottenacker,KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+956,GS,425108,KD,08425108,084250108108,63,89601,"Schelklingen, Stadt",KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+957,GS,425110,KD,08425110,084255006110,64,89194,Schnürpflingen,KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+958,GS,425112,KD,08425112,084255008112,64,89129,Setzingen,KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+959,GS,425123,KD,08425123,084255010123,64,89617,Untermarchtal,KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+960,GS,425124,KD,08425124,084255010124,64,89619,Unterstadion,KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+961,GS,425125,KD,08425125,084255010125,64,89597,Unterwachingen,KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+962,GS,425130,KD,08425130,084255008130,64,89197,Weidenstetten,KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+963,GS,425134,KD,08425134,084255007134,64,72589,Westerheim,KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+964,GS,425135,KD,08425135,084255004135,64,89198,Westerstetten,KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+965,GS,425137,KD,08425137,084255006137,64,89171,Illerkirchberg,KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+966,GS,425138,KD,08425138,084255006138,64,89195,Staig,KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+967,GS,425139,KD,08425139,084255007139,64,72535,Heroldstatt,KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+968,GS,425140,KD,08425140,084255003140,64,88481,Balzheim,KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+969,GS,425141,KD,08425141,084250141141,63,89134,"Blaustein, Stadt",KR,425,08425,Landkreis,Alb-Donau-Kreis,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+970,GS,426001,KD,08426001,084265005001,64,88480,Achstetten,KR,426,08426,Landkreis,Biberach,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+971,GS,426005,KD,08426005,084265001005,64,88422,Alleshausen,KR,426,08426,Landkreis,Biberach,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+972,GS,426006,KD,08426006,084265001006,64,88348,Allmannsweiler,KR,426,08426,Landkreis,Biberach,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+973,GS,426008,KD,08426008,084265007008,64,88499,Altheim,KR,426,08426,Landkreis,Biberach,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+974,GS,426011,KD,08426011,084265003011,64,88448,Attenweiler,KR,426,08426,Landkreis,Biberach,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+975,GS,426013,KD,08426013,084265001013,63,88422,"Bad Buchau, Stadt",KR,426,08426,Landkreis,Biberach,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+976,GS,426014,KD,08426014,084265002014,63,88427,"Bad Schussenried, Stadt",KR,426,08426,Landkreis,Biberach,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+977,GS,426019,KD,08426019,084265004019,64,88450,Berkheim,KR,426,08426,Landkreis,Biberach,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+978,GS,426020,KD,08426020,084265001020,64,88422,Betzenweiler,KR,426,08426,Landkreis,Biberach,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+979,GS,426021,KD,08426021,084265003021,67,88400,"Biberach an der Riß, Stadt",KR,426,08426,Landkreis,Biberach,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+980,GS,426028,KD,08426028,084265005028,64,88483,Burgrieden,KR,426,08426,Landkreis,Biberach,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+981,GS,426031,KD,08426031,084265004031,64,88451,Dettingen an der Iller,KR,426,08426,Landkreis,Biberach,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+982,GS,426035,KD,08426035,084265007035,64,88525,Dürmentingen,KR,426,08426,Landkreis,Biberach,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+983,GS,426036,KD,08426036,084265001036,64,88422,Dürnau,KR,426,08426,Landkreis,Biberach,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+984,GS,426038,KD,08426038,084265003038,64,88436,Eberhardzell,KR,426,08426,Landkreis,Biberach,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+985,GS,426043,KD,08426043,084265006043,64,88416,Erlenmoos,KR,426,08426,Landkreis,Biberach,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+986,GS,426044,KD,08426044,084265004044,64,88453,Erolzheim,KR,426,08426,Landkreis,Biberach,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+987,GS,426045,KD,08426045,084265007045,64,88521,Ertingen,KR,426,08426,Landkreis,Biberach,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+988,GS,426058,KD,08426058,084265003058,64,88454,Hochdorf,KR,426,08426,Landkreis,Biberach,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+989,GS,426062,KD,08426062,084265002062,64,88456,Ingoldingen,KR,426,08426,Landkreis,Biberach,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+990,GS,426064,KD,08426064,084265001064,64,88422,Kanzach,KR,426,08426,Landkreis,Biberach,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+991,GS,426065,KD,08426065,084265004065,64,88486,Kirchberg an der Iller,KR,426,08426,Landkreis,Biberach,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+992,GS,426066,KD,08426066,084265004066,64,88457,Kirchdorf an der Iller,KR,426,08426,Landkreis,Biberach,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+993,GS,426067,KD,08426067,084265007067,64,88515,Langenenslingen,KR,426,08426,Landkreis,Biberach,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+994,GS,426070,KD,08426070,084265005070,67,88471,"Laupheim, Stadt",KR,426,08426,Landkreis,Biberach,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+995,GS,426071,KD,08426071,084265003071,64,88437,Maselheim,KR,426,08426,Landkreis,Biberach,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+996,GS,426073,KD,08426073,084265005073,64,88487,Mietingen,KR,426,08426,Landkreis,Biberach,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+997,GS,426074,KD,08426074,084265003074,64,88441,Mittelbiberach,KR,426,08426,Landkreis,Biberach,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+998,GS,426078,KD,08426078,084265001078,64,88422,Moosburg,KR,426,08426,Landkreis,Biberach,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+999,GS,426087,KD,08426087,084265006087,63,88416,"Ochsenhausen, Stadt",KR,426,08426,Landkreis,Biberach,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+1000,GS,426090,KD,08426090,084265001090,64,88422,Oggelshausen,KR,426,08426,Landkreis,Biberach,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+1001,GS,426097,KD,08426097,084265007097,63,88499,"Riedlingen, Stadt",KR,426,08426,Landkreis,Biberach,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+1002,GS,426100,KD,08426100,084265008100,64,88430,Rot an der Rot,KR,426,08426,Landkreis,Biberach,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+1003,GS,426108,KD,08426108,084265009108,64,88477,Schwendi,KR,426,08426,Landkreis,Biberach,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+1004,GS,426109,KD,08426109,084265001109,64,88422,Seekirch,KR,426,08426,Landkreis,Biberach,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+1005,GS,426113,KD,08426113,084265006113,64,88416,Steinhausen an der Rottum,KR,426,08426,Landkreis,Biberach,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+1006,GS,426117,KD,08426117,084265008117,64,88459,Tannheim,KR,426,08426,Landkreis,Biberach,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+1008,GS,426120,KD,08426120,084265003120,64,88444,Ummendorf,KR,426,08426,Landkreis,Biberach,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+1009,GS,426121,KD,08426121,084265007121,64,88527,Unlingen,KR,426,08426,Landkreis,Biberach,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+1010,GS,426124,KD,08426124,084265007124,64,88524,Uttenweiler,KR,426,08426,Landkreis,Biberach,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+1011,GS,426125,KD,08426125,084265009125,64,88489,Wain,KR,426,08426,Landkreis,Biberach,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+1012,GS,426128,KD,08426128,084265003128,64,88447,Warthausen,KR,426,08426,Landkreis,Biberach,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+1013,GS,426134,KD,08426134,084260134134,64,88433,Schemmerhofen,KR,426,08426,Landkreis,Biberach,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+1014,GS,426135,KD,08426135,084265006135,64,88484,Gutenzell-Hürbel,KR,426,08426,Landkreis,Biberach,RV,42,0842,Donau-Iller,RB,4,084,Tübingen
+1015,GS,435005,KD,08435005,084355003005,64,88697,Bermatingen,KR,435,08435,Landkreis,Bodenseekreis,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1016,GS,435010,KD,08435010,084355004010,64,88718,Daisendorf,KR,435,08435,Landkreis,Bodenseekreis,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1017,GS,435013,KD,08435013,084355001013,64,88097,Eriskirch,KR,435,08435,Landkreis,Bodenseekreis,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1018,GS,435015,KD,08435015,084355005015,64,88699,Frickingen,KR,435,08435,Landkreis,Bodenseekreis,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1019,GS,435016,KD,08435016,084355002016,67,88045,"Friedrichshafen, Stadt",KR,435,08435,Landkreis,Bodenseekreis,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1020,GS,435018,KD,08435018,084355004018,64,88709,Hagnau am Bodensee,KR,435,08435,Landkreis,Bodenseekreis,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1021,GS,435020,KD,08435020,084355005020,64,88633,Heiligenberg,KR,435,08435,Landkreis,Bodenseekreis,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1022,GS,435024,KD,08435024,084355002024,64,88090,Immenstaad am Bodensee,KR,435,08435,Landkreis,Bodenseekreis,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1023,GS,435029,KD,08435029,084355001029,64,88079,Kressbronn am Bodensee,KR,435,08435,Landkreis,Bodenseekreis,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1024,GS,435030,KD,08435030,084355001030,64,88085,Langenargen,KR,435,08435,Landkreis,Bodenseekreis,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1025,GS,435034,KD,08435034,084355003034,63,88677,"Markdorf, Stadt",KR,435,08435,Landkreis,Bodenseekreis,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1026,GS,435035,KD,08435035,084350035035,64,88074,Meckenbeuren,KR,435,08435,Landkreis,Bodenseekreis,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1027,GS,435036,KD,08435036,084355004036,63,88709,"Meersburg, Stadt",KR,435,08435,Landkreis,Bodenseekreis,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1028,GS,435042,KD,08435042,084355006042,64,88099,Neukirch,KR,435,08435,Landkreis,Bodenseekreis,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1029,GS,435045,KD,08435045,084355003045,64,88094,Oberteuringen,KR,435,08435,Landkreis,Bodenseekreis,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1030,GS,435047,KD,08435047,084355007047,64,88696,Owingen,KR,435,08435,Landkreis,Bodenseekreis,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1031,GS,435052,KD,08435052,084355005052,64,88682,Salem,KR,435,08435,Landkreis,Bodenseekreis,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1032,GS,435053,KD,08435053,084355007053,64,78354,Sipplingen,KR,435,08435,Landkreis,Bodenseekreis,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1033,GS,435054,KD,08435054,084355004054,64,88719,Stetten,KR,435,08435,Landkreis,Bodenseekreis,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1034,GS,435057,KD,08435057,084355006057,63,88069,"Tettnang, Stadt",KR,435,08435,Landkreis,Bodenseekreis,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1035,GS,435059,KD,08435059,084355007059,67,88662,"Überlingen, Stadt",KR,435,08435,Landkreis,Bodenseekreis,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1036,GS,435066,KD,08435066,084355004066,64,88690,Uhldingen-Mühlhofen,KR,435,08435,Landkreis,Bodenseekreis,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1037,GS,435067,KD,08435067,084355003067,64,88693,Deggenhausertal,KR,435,08435,Landkreis,Bodenseekreis,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1038,GS,436001,KD,08436001,084365007001,64,88147,Achberg,KR,436,08436,Landkreis,Ravensburg,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1039,GS,436003,KD,08436003,084365004003,64,88317,Aichstetten,KR,436,08436,Landkreis,Ravensburg,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1040,GS,436004,KD,08436004,084365004004,64,88319,Aitrach,KR,436,08436,Landkreis,Ravensburg,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1041,GS,436005,KD,08436005,084365001005,64,88361,Altshausen,KR,436,08436,Landkreis,Ravensburg,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1042,GS,436006,KD,08436006,084365007006,64,88279,Amtzell,KR,436,08436,Landkreis,Ravensburg,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1043,GS,436008,KD,08436008,084360008008,63,88326,"Aulendorf, Stadt",KR,436,08436,Landkreis,Ravensburg,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1044,GS,436009,KD,08436009,084365002009,67,88339,"Bad Waldsee, Stadt",KR,436,08436,Landkreis,Ravensburg,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1045,GS,436010,KD,08436010,084360010010,63,88410,"Bad Wurzach, Stadt",KR,436,08436,Landkreis,Ravensburg,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1046,GS,436011,KD,08436011,084365005011,64,88255,Baienfurt,KR,436,08436,Landkreis,Ravensburg,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1047,GS,436012,KD,08436012,084365005012,64,88255,Baindt,KR,436,08436,Landkreis,Ravensburg,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1048,GS,436013,KD,08436013,084365005013,64,88276,Berg,KR,436,08436,Landkreis,Ravensburg,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1049,GS,436014,KD,08436014,084365002014,64,88368,Bergatreute,KR,436,08436,Landkreis,Ravensburg,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1050,GS,436018,KD,08436018,084365003018,64,88285,Bodnegg,KR,436,08436,Landkreis,Ravensburg,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1051,GS,436019,KD,08436019,084365001019,64,88361,Boms,KR,436,08436,Landkreis,Ravensburg,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1052,GS,436024,KD,08436024,084365001024,64,88370,Ebenweiler,KR,436,08436,Landkreis,Ravensburg,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1053,GS,436027,KD,08436027,084365001027,64,88361,Eichstegen,KR,436,08436,Landkreis,Ravensburg,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1054,GS,436032,KD,08436032,084365001032,64,88373,Fleischwangen,KR,436,08436,Landkreis,Ravensburg,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1055,GS,436039,KD,08436039,084365003039,64,88287,Grünkraut,KR,436,08436,Landkreis,Ravensburg,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1056,GS,436040,KD,08436040,084365001040,64,88379,Guggenhausen,KR,436,08436,Landkreis,Ravensburg,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1057,GS,436047,KD,08436047,084365001047,64,88374,Hoßkirch,KR,436,08436,Landkreis,Ravensburg,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1058,GS,436049,KD,08436049,084360049049,63,88316,"Isny im Allgäu, Stadt",KR,436,08436,Landkreis,Ravensburg,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1059,GS,436052,KD,08436052,084360052052,64,88353,Kißlegg,KR,436,08436,Landkreis,Ravensburg,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1061,GS,436055,KD,08436055,084365004055,67,88299,"Leutkirch im Allgäu, Stadt",KR,436,08436,Landkreis,Ravensburg,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1062,GS,436064,KD,08436064,084365005064,67,88212,"Ravensburg, Stadt",KR,436,08436,Landkreis,Ravensburg,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1063,GS,436067,KD,08436067,084365001067,64,88377,Riedhausen,KR,436,08436,Landkreis,Ravensburg,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1064,GS,436069,KD,08436069,084365003069,64,88281,Schlier,KR,436,08436,Landkreis,Ravensburg,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1065,GS,436077,KD,08436077,084365001077,64,88379,Unterwaldhausen,KR,436,08436,Landkreis,Ravensburg,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1066,GS,436078,KD,08436078,084365006078,64,88267,Vogt,KR,436,08436,Landkreis,Ravensburg,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1067,GS,436079,KD,08436079,084365003079,64,88289,Waldburg,KR,436,08436,Landkreis,Ravensburg,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1068,GS,436081,KD,08436081,084365007081,67,88239,"Wangen im Allgäu, Stadt",KR,436,08436,Landkreis,Ravensburg,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1069,GS,436082,KD,08436082,084365005082,67,88250,"Weingarten, Stadt",KR,436,08436,Landkreis,Ravensburg,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1070,GS,436083,KD,08436083,084365008083,64,88271,Wilhelmsdorf,KR,436,08436,Landkreis,Ravensburg,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1071,GS,436085,KD,08436085,084365006085,64,88364,Wolfegg,KR,436,08436,Landkreis,Ravensburg,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1072,GS,436087,KD,08436087,084365009087,64,88284,Wolpertswende,KR,436,08436,Landkreis,Ravensburg,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1073,GS,436093,KD,08436093,084365001093,64,88371,Ebersbach-Musbach,KR,436,08436,Landkreis,Ravensburg,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1074,GS,436094,KD,08436094,084360094094,64,88260,Argenbühl,KR,436,08436,Landkreis,Ravensburg,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1075,GS,436095,KD,08436095,084365008095,64,88263,Horgenzell,KR,436,08436,Landkreis,Ravensburg,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1076,GS,436096,KD,08436096,084365009096,64,88273,Fronreute,KR,436,08436,Landkreis,Ravensburg,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1077,GS,437005,KD,08437005,084375006005,64,88631,Beuron,KR,437,08437,Landkreis,Sigmaringen,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1078,GS,437008,KD,08437008,084375006008,64,72511,Bingen,KR,437,08437,Landkreis,Sigmaringen,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1079,GS,437031,KD,08437031,084375001031,63,72501,"Gammertingen, Stadt",KR,437,08437,Landkreis,Sigmaringen,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1080,GS,437044,KD,08437044,084375005044,64,88518,Herbertingen,KR,437,08437,Landkreis,Sigmaringen,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1081,GS,437047,KD,08437047,084375001047,63,72513,"Hettingen, Stadt",KR,437,08437,Landkreis,Sigmaringen,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1082,GS,437053,KD,08437053,084375002053,64,88367,Hohentengen,KR,437,08437,Landkreis,Sigmaringen,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1083,GS,437056,KD,08437056,084375004056,64,88636,Illmensee,KR,437,08437,Landkreis,Sigmaringen,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1084,GS,437059,KD,08437059,084375006059,64,72514,Inzigkofen,KR,437,08437,Landkreis,Sigmaringen,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1085,GS,437065,KD,08437065,084375006065,64,72505,Krauchenwies,KR,437,08437,Landkreis,Sigmaringen,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1086,GS,437072,KD,08437072,084375003072,64,88637,Leibertingen,KR,437,08437,Landkreis,Sigmaringen,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1087,GS,437076,KD,08437076,084375002076,63,88512,"Mengen, Stadt",KR,437,08437,Landkreis,Sigmaringen,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1088,GS,437078,KD,08437078,084375003078,63,88605,"Meßkirch, Stadt",KR,437,08437,Landkreis,Sigmaringen,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1089,GS,437082,KD,08437082,084375001082,64,72419,Neufra,KR,437,08437,Landkreis,Sigmaringen,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1090,GS,437086,KD,08437086,084370086086,64,88356,Ostrach,KR,437,08437,Landkreis,Sigmaringen,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1091,GS,437088,KD,08437088,084375004088,63,88630,"Pfullendorf, Stadt",KR,437,08437,Landkreis,Sigmaringen,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1092,GS,437100,KD,08437100,084375005100,63,88348,"Bad Saulgau, Stadt",KR,437,08437,Landkreis,Sigmaringen,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1093,GS,437101,KD,08437101,084375002101,63,72516,"Scheer, Stadt",KR,437,08437,Landkreis,Sigmaringen,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1094,GS,437102,KD,08437102,084375007102,64,72477,Schwenningen,KR,437,08437,Landkreis,Sigmaringen,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1095,GS,437104,KD,08437104,084375006104,63,72488,"Sigmaringen, Stadt",KR,437,08437,Landkreis,Sigmaringen,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1096,GS,437105,KD,08437105,084375006105,64,72517,Sigmaringendorf,KR,437,08437,Landkreis,Sigmaringen,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1097,GS,437107,KD,08437107,084375007107,64,72510,Stetten am kalten Markt,KR,437,08437,Landkreis,Sigmaringen,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1098,GS,437114,KD,08437114,084375001114,63,72519,"Veringenstadt, Stadt",KR,437,08437,Landkreis,Sigmaringen,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1099,GS,437118,KD,08437118,084375004118,64,88639,Wald,KR,437,08437,Landkreis,Sigmaringen,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1100,GS,437123,KD,08437123,084375003123,64,88605,Sauldorf,KR,437,08437,Landkreis,Sigmaringen,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1101,GS,437124,KD,08437124,084375004124,64,88634,Herdwangen-Schönach,KR,437,08437,Landkreis,Sigmaringen,RV,43,0843,Bodensee-Oberschwaben,RB,4,084,Tübingen
+1102,x,x,KD,08317971,083179971971,66,x,"Rheinau, gemeindefreies Gebiet",KR,317,08317,Landkreis,Ortenaukreis,RV,31,0831,Südlicher Oberrhein,RB,3,083,Freiburg
+1103,x,x,KD,08415971,084159971971,66,x,"Gutsbezirk Münsingen, gemeindefreies Gebiet",KR,415,08415,Landkreis,Reutlingen,RV,41,0841,Neckar-Alb,RB,4,084,Tübingen
